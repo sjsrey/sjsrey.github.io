@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sergio Rey/ Site Title"
+title                    : "Sergio Rey"
 title_separator          : "-"
-name                     : &name "Sergio Rey"
+name                     : &name "Serge Rey"
 description              : &description "personal description"
 url                      : https://sjsrey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ author:
   name             : "Serge Rey"
   avatar           : "profile.png"
   bio              : "GIScience | Open Science"
-  location         : "Riverside, CA"
+  location         : 
   employer         : "University of California, Riverside"
   googlescholar    : "https://scholar.google.com/citations?user=qqjwTf4AAAAJ&hl=en"
   email            : "sjsrey@gmail.com"
