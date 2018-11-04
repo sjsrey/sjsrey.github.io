@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Serge Rey"
   avatar           : "profile.png"
-  bio              : "Professor"
+  bio              : "GIScience | Open Science"
   location         : "Location"
-  employer         :
+  employer         : "http://spatial.ucr.edu"
   googlescholar    : "https://scholar.google.com/citations?user=qqjwTf4AAAAJ&hl=en"
   email            : "sjsrey@gmail.com"
   uri              :
@@ -100,7 +100,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/ 0000-0001-5857-9762"
+  orcid            : "https://orcid.org/0000-0001-5857-9762"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
