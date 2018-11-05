@@ -1,7 +1,7 @@
 ---
 title: 'Staring over'
 date: 2018-11-07
-permalink: /posts/2018/11/blog-post-1/
+permalink: /posts/2018/11/starting-over/
 tags:
   - web
 ---
