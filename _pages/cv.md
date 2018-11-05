@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+[Full CV](/files/rey_cv.pdf)
+
+Below here is a work in progress :->
+
 {% include base_path %}
 
 Education
