@@ -115,7 +115,10 @@ Geo-Information.
 
 Refereed Journal Articles and Book Chapters
 --------
-
+1. 2019 Kang, W. and S.J. Rey. "Inference for Income Mobility Measures in the Presence of Spatial Dependence." International Regional Science Review. Forthcoming.
+1. 2019 Rey, S.J. "PySAL: The first 10 years." Spatial Economic Analysis. Forthcoming.
+1. 2019 Rey, S.J. "Geographical Analysis: Reflections of a recovering editor." Geographical Analysis. Forthcoming.
+1. 2018 Almasluikh, A., A. Magdy, and S. J. Rey. "Spatio-temporal analysis of market semantics over large public geosocial media data." Journal of Location Based Services. Forthcoming.
 1. 2018 Rey, S.J., W. Kang, and L. J. Wolf. "Regional Inequality Dynamics, Stochastic Dominance, and Spatial Dependence." Papers in Regional Science. Forthcoming. <https://doi.org/10.1111/pirs.12393>.
 1. 2018 Rey, S.J., E. Knaap, S. Han, L.J. Wolf, and W. Kang. "Spatio-temporal analysis of socioeconomic neighborhoods: The Open Source Longitudinal Neighborhood Analysis Package (OSLNAP)." Proceedings of the 17th Python in Science Conference (SciPy 2018). Pages 121-128. <https://doi.org/10.25080/Majora-4af1f417-012>.
 1. 2018 Rey, S.J. "Bells in space: The spatial dynamics of US interpersonal and interregional income inequality." International Regional Science Review, 41(2) 152-182. <https://doi.org/10.1177/0160017615614899>.
