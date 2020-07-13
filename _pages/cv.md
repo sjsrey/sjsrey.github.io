@@ -115,6 +115,12 @@ Geo-Information.
 
 Refereed Journal Articles and Book Chapters
 --------
+1. 2020 Rey, S.J., S. Han, W. Kang, E. Knaap, R. Cortes. "A Visual Analytics System for Space–Time Dynamics of Regional Income Distributions Utilizing Animated Flow Maps and Rank‐based Markov Chains." Geographical Analysis. DOI: 10.1111/gean.12239.
+1. 2020 Wei, R., S.J. Rey, E. Knaap. "Efficient regionalization for spatially explicit neighborhood delineation." International Journal of Geographical Information Science. Forthcoming.
+1. 2020 Lumnitz, S., D. Arribas-Bel, R.X. Cortes, J.D. Gaboardi, V. Griess, W. Kang, T.M. Oshan, L. Wolf, and S. Rey.  "splot - visual analytics for spatial statistics". Journal of Open Source Software, 5(47), 1882. https://doi.org/10.21105/joss.01882.
+1. 2020 Kang, W.,  S.J. Rey, L. Wolf, E. Knaap, S. Han. "Sensitivity of sequence methods in the study of neighborhood change in the United States." Computers, Environent and Urban Systems. Forthcoming.
+1. 2019 Cortes, R.X., S.J. Rey, E. Knaap, and L.J. Wolf. "An Open-Source Framework for Non-Spatial and Spatial Segregation Measures: The PySAL Segregation Module." Journal of Computational Social Sciences. https://doi.org/10.1007/s42001-019-00059-3
+1. 2019 Han, S., S.J. Rey, E. Knaap, W. Kang, and L.J. Wolf. "Adaptive Choropleth Mapper: an Open-Source Web-Based Tool for Synchronous Exploration of Multiple Variables At Multiple Spatial Extents." International Journal of Geo-Information, 8(11) 509-527. https://doi.org/10.3390/ijgi8110509
 1. 2019 Kang, W. and S.J. Rey. "Inference for Income Mobility Measures in the Presence of Spatial Dependence." International Regional Science Review. Forthcoming.
 1. 2019 Rey, S.J. "PySAL: The first 10 years." Spatial Economic Analysis. Forthcoming.
 1. 2019 Rey, S.J. "Geographical Analysis: Reflections of a recovering editor." Geographical Analysis. Forthcoming.

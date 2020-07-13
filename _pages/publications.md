@@ -12,21 +12,27 @@ author_profile: true
 1. 2002 Anselin, L. and S.J. Rey (eds.), New Tools for Spatial Data Analysis: Proceedings of a Workshop. Center for Spatially Integrated Social Science, University of California, Santa Barbara (CD-ROM).
 
 #### Refereed Journal Articles and Book Chapters
-1. 2019 Cortes, R.X., S.J. Rey, E. Knaap, and L.J. Wolf. "An Open-Source Framework for Non-Spatial and Spatial Segregation Measures: The PySAL Segregation Module." Journal of Computational Social Sciences. <https://doi.org/10.1007/s42001-019-00059-3>
-1. 2019 Han, S., S.J. Rey, E. Knaap, W. Kang, and L.J. Wolf. "Adaptive Choropleth Mapper: an Open-Source Web-Based Tool for Synchronous Exploration of Multiple Variables At Multiple Spatial Extents." International Journal of Geo-Information, 8(11) 509-527. <https://doi.org/10.3390/ijgi8110509>
+1. 2020 Rey, S.J., S. Han, W. Kang, E. Knaap, R. Cortes. "A Visual Analytics System for Space–Time Dynamics of Regional Income Distributions Utilizing Animated Flow Maps and Rank‐based Markov Chains." Geographical Analysis. DOI: 10.1111/gean.12239.
+1. 2020 Wei, R., S.J. Rey, E. Knaap. "Efficient regionalization for spatially explicit neighborhood delineation." International Journal of Geographical Information Science. Forthcoming.
+1. 2020 Lumnitz, S., D. Arribas-Bel, R.X. Cortes, J.D. Gaboardi, V. Griess, W. Kang, T.M. Oshan, L. Wolf, and S. Rey.  "splot - visual analytics for spatial statistics". Journal of Open Source Software, 5(47), 1882. https://doi.org/10.21105/joss.01882.
+1. 2020 Kang, W.,  S.J. Rey, L. Wolf, E. Knaap, S. Han. "Sensitivity of sequence methods in the study of neighborhood change in the United States." Computers, Environent and Urban Systems. Forthcoming.
+1. 2019 Cortes, R.X., S.J. Rey, E. Knaap, and L.J. Wolf. "An Open-Source Framework for Non-Spatial and Spatial Segregation Measures: The PySAL Segregation Module." Journal of Computational Social Sciences. https://doi.org/10.1007/s42001-019-00059-3
+1. 2019 Han, S., S.J. Rey, E. Knaap, W. Kang, and L.J. Wolf. "Adaptive Choropleth Mapper: an Open-Source Web-Based Tool for Synchronous Exploration of Multiple Variables At Multiple Spatial Extents." International Journal of Geo-Information, 8(11) 509-527. https://doi.org/10.3390/ijgi8110509
 1. 2019 Kang, W. and S.J. Rey. "Inference for income mobility measures in the presence of spatial dependence." International Regional Science Review. Forthcoming.  
-   <https://doi.org/10.1177/0160017619826291>
-1. 2019 Han, S., M. Tsou, E. Knaap, S.J. Rey, and G. Cao. "How do cities flow in an emergency? Tracing human mobility patterns during a natural disaster with big data and geospatial data science." Urban Science,  3(2), 51; <https://doi.org/10.3390/urbansci3020051>
-1. 2019 Rey, S.J. "PySAL: The first 10 years." Spatial Economic Analysis. <https://doi.org/10.1080/17421772.2019.1593495>. 
-1. 2019 Rey, S.J. "Geographical Analysis: Reflections of a recovering editor." Geographical Analysis. <https://doi.org/10.1111/gean.12193>.
-1. 2019 Wolf, L.J., E. Knaap, and S.J. Rey. "Geosilhouettes: geographical measures of cluster fit." Environment and Planning B: Urban Analytics and City Science. Forthcoming. <https://doi.org/10.1177%2F2399808319875752>.
-1. 2018 Almasluikh, A., A. Magdy, and S. J. Rey. "Spatio-temporal analysis of market semantics over large public geosocial media data." Journal of Location Based Services. Forthcoming.
-1. 2018 Rey, S.J., W. Kang, and L. J. Wolf. "Regional Inequality Dynamics, Stochastic Dominance, and Spatial Dependence." Papers in Regional Science. Forthcoming. <https://doi.org/10.1111/pirs.12393>.
+   https://doi.org/10.1177/0160017619826291
+1. 2019 Han, S., M. Tsou, E. Knaap, S.J. Rey, and G. Cao. "How do cities flow in an emergency? Tracing human mobility patterns during a natural disaster with big data and geospatial data science." Urban Science,  3(2), 51; https://doi.org/10.3390/urbansci3020051
+1. 2019 Rey, S.J. "PySAL: The first 10 years." Spatial Economic Analysis.  
+   https://doi.org/10.1080/17421772.2019.1593495
+1. 2019 Rey, S.J. "Geographical Analysis: Reflections of a recovering editor." Geographical Analysis.  https://doi.org/10.1111/gean.12193
+1. 2019 Rey, S.J., W. Kang, and  L.J. Wolf. ‘Regional inequality dynamics, stochastic dominance, and spatial dependence’. Papers in Regional Science, vol 98., pp. 861-881.
+1. 2019 Wolf, L.J., E. Knaap, and S.J. Rey. "Geosilhouettes: geographical measures of cluster fit." Environment and Planning B: Urban Analytics and City Science. Forthcoming. https://doi.org/10.1177%2F2399808319875752
+1. 2018 Almasluikh, A., A. Magdy, and S. J. Rey. “Spatio-temporal analysis of market semantics over large public geosocial media data.” Journal of Location Based Services.  
+   https://doi.org/10.1080/17489725.2018.1547428.
 1. 2018 Rey, S.J., E. Knaap, S. Han, L.J. Wolf, and W. Kang. "Spatio-temporal analysis of socioeconomic neighborhoods: The Open Source Longitudinal Neighborhood Analysis Package (OSLNAP)." Proceedings of the 17th Python in Science Conference (SciPy 2018). Pages 121-128. <https://doi.org/10.25080/Majora-4af1f417-012>.
 1. 2018 Rey, S.J. "Bells in space: The spatial dynamics of US interpersonal and interregional income inequality." International Regional Science Review, 41(2) 152-182. <https://doi.org/10.1177/0160017615614899>.
 1. 2018 Kang, W. and S.J. Rey. "Conditional and joint tests for spatial effects in discrete Markov chain models of regional income distribution dynamics." Annals of Regional Science, 61(1): 73-93.  <https://doi.org/10.1007/s00168-017-0859-9>.
 1. 2018 Rey, S.J. "Code as Text: Open Source Lessons for Geospatial Research and Education." In Thill, J-C. and S. Dragicevic (eds.) Geocomputational Analysis and Modeling of Regional Systems. Springer. Pages 7-21.
-1. 2018 Smith, R. and S.J. Rey "Spatial Approaches to Measure Subnational Inequality: Implications for Sustainable Development Goals". Development and Policy Review. Forthcoming. <https://doi.org/10.1111/dpr.12363>.
+1. 2018 Smith, R. and S.J. Rey "Spatial Approaches to Measure Subnational Inequality: Implications for Sustainable Development Goals". Development and Policy Review, 36:O657–O675. <https://doi.org/10.1111/dpr.12363>.
 1. 2017 Clark, S.D. and S.J. Rey.  "Temporal dynamics in local vehicle ownership in Great Britan." Journal of Transport Geography, 62: 30-37.
 1. 2017 Fan, C., S.W. Myint, S.J. Rey and W. Li. "Time series anaysis of urban dynamics using sequential Landsat imagery and spatial statistical modeling." International Journal of Applied Earth Observation and Geoinformation, 58:12-25. <https://doi.org/10.1016/j.jag.2017.01.009>.
 1. 2017 Rey, S.J. "Python for GIS." In Wilson, J. (ed.) Geographic Information Science & Technology Body of Knowledge. University Consortium for Geographic Information Science. <doi:10.22224/gistbok/2017.3.4>.
