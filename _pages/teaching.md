@@ -5,10 +5,19 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
 ### Courses Taught
 
 #### Short and Invited Courses
-
+- Spatial Data Analysis with PySAL (SciPy India 2020, December)
+- Spatial Data Science with PySAL (NARSC 2020, San Diego, November)
+- Spatial Data Science with PySAL (SpatialAPI 2020, Seattle, October)
+- Spatial Data Science with PySAL (SciPy 2020, Austin, Texas, July)
+- Spatial Data Science with PySAL (RSAI 2019, Pittsburgh, PA, November)
+- Geospatial Data Science with PySAL (Geocomputation 2019, Queenstown, New Zealand, September) 
+- Intermediate Geographical Data Science (SciPy 2019, Austin, Texas, July)
+- Geospatial Data Science with PySAL (FOSS4G 2019, San Diego, CA, April) 
+- Spatial Data Analysis with PySal and GeoDaSpace (RSAI 2018, San Antonio, TX, November)
 - Introduction to Geospatial Data Analysis with Python (SciPy 2018, Austin, Texas)
 - Geospatial Data Analysis with Python (GradQuant UCR May 2018)
 - Spatial Data Science with PyData (GeoPython 2018, Basel, Switzerland)
@@ -32,6 +41,9 @@ author_profile: true
 
 #### University of California
 - GIS for Public Policy
+- Spatial Dimensions of Public Policy
+- Quantitative Methods for Public Policy
+- Regional Policy-Making Across Administrative Juristictions
 
 #### Arizona State University
 
@@ -60,30 +72,36 @@ author_profile: true
 
 #### Post Doctoral Positions
 
-- 2018- Wei Kang.* Spatiotemporal Analytics
-- 2018- Su Han.* Neighborhoods in Space-Time Contexts
-- 2018-  Wei Kang.* Neighborhoods in Space-Time Contexts
-- 2018- Elijah Knaap.* Spatial Distribution Dynamics
+- 2020- Xin Fang.* Scalable Geospatial Analytics
+- 2018-2020 Wei Kang.* Spatiotemporal Analytics
+- 2018-2020 Su Han.* Neighborhoods in Space-Time Contexts
+- 2018-2019  Renan Cortes.* Neighborhoods in Space-Time Contexts
+- 2018-2019 Elijah Knaap.* Spatial Distribution Dynamics
 - 2009 Myrna L. Sastre Gutierrez.* Regional Dynamics,
   Convergence, and Space in Mexico
 - 2005 Juan Carlos Duque.* Integrating Industrial and Spatial
-  Clustering Methodologies.
+  Clustering Methodolgies.
 - 2005 Oleg Smirnov.* Spatial Analytical Approaches Towards
   Economic Development.
 
 #### Doctoral In Progress
 
-- Joanna Merson. Arizona State University.
-- Hu Shao.* Arizona State University
+- Suchirtra Pithavath. University of California
+- Talha Rafiq. University of California
+- Samriddhi Singla. University of California
+- Nazli Uludere Aragon. Arizona State University
 
 #### Doctoral Completed
-- 2018 Wei Kang.* Arizona State University.
+- 2020 Paige Trubenstein. University of California
+- 2020 Saheli Gosh. University of California
+- 2019 Hu Shao.* Arizona State University
+- 2018 Wei Kang.* Arizona State University
+- 2018 Marynia Kolak. Arizona State University
 - 2017 Taylor Oshan. Arizona State University
-- 2017 Levi Wolf.* Arizona State University.
-- 2017 Janet Reyna. Arizona State University.
-- 2017 Marynia Kolak. Arizona State University
+- 2017 Levi Wolf.* Arizona State University
+- 2017 Janet Reyna. Arizona State University
 - 2017 Chao Fan. Arizona State University.
-- 2017 Jianhua Huang. Arizona State Unveristy.
+- 2017 Jianhua Huang. Arizona State Unveristy
 - 2015 Jason Laura.* Towards a Taxonomy of Parallel Spatial Algorithms. Arizona State University.
 - 2015 Insu Hong. Efficient methods for shortest paths avoiding obstacles in
   continuous space. Arizona State University.

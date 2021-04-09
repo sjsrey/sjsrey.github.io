@@ -6,8 +6,16 @@ author_profile: true
 ---
 
 
+
+
+### Presentations
+
 #### Invited Lectures
-1. 2018 Rey, S.J. "PySAL: The first ten years." Spatial Economics Analysis Plenary Keynote Lecture. 58th Congress of the European Regional Science Association. Cork, Ireland. August.
+1. 2021 Rey, S.J. "Big Code." Geographical Analysis Plenary. Association of American Geographers. Virtual. April.
+1. 2020 Rey, S.J. "The Legacy of Redlining: A Spatial Dynamics Perspective." Keynote, SciPy India. December.
+1. 2020 Rey, S.J. "The Legacy of Redlining: A Spatial Dynamics Perspective." Fellows Lecture, North American Regional Science Association. November.
+1. 2020 Rey, S.J. "Open GIScience." Distinguished Lecture Series. Department of Geography, San Diego State University. February.
+1. 2018 Rey, S.J. "PySAL: The first ten years." Spatial Economic Analysis Plenary Keynote Lecture. 58th Congress of the European Regional Science Association. Cork, Ireland. August.
 1. 2017 Rey, S.J. "Spatial distribution dynamics and regional income inequality." Tod Spieker Colloquium, Department of Geography, University of California, Los Angeles. November.
 1. 2017 Rey, S.J. "New Approaches for Spatial Distribution Dynamics." University of Colorado, Boulder. March.
 1. 2017 Rey, S.J. "Spatial Distribution Dynamics with PySAL." University of Liverpool. March.
@@ -129,6 +137,16 @@ author_profile: true
 
 #### Conference Participation and Presentations
 
+1. 2021 Dony, C., A. Nara, T. Herman, M. Solem, K. Leon, S.J. Rey. "Research-Practice Partnerships (RPPs) to modernize geography education in high school and college." American Association of Geographers. Virtual. April.
+1. 2021 Rey, S.J. and E. Knaap "Comparative spatial segregation analytics." Western Regional Science Association, On-line. February.
+1. 2021 Rey, S.J. and E. Knaap "The legacy of redlining: A spatial dynamics perspective." Western Regional Science Association, On-line. February.
+1. 2019 Kang, W. and S.J. Rey ``A new optimal matching approach to uncovering neighborhood sequencing structure.'' Regional Science Association. Minneapolis, Pittsburgh. November.
+1. 2019 Cortes, R.X. and S.J. Rey. "Building an open-source framework for non-Spatial and Spatial Segregation measures." American  Association of Geographers. Washington, D.C., April.
+1. 2019 Han, S., S.J. Rey, E. Knaap, W. Kang, and L.J. Wolf. "Adaptive Choropleth Mapper: A web-based tool for synchronous exploration of multiple variables at multiple spatial scales."  American  Association of Geographers. Washington, D.C., April.
+1. 2019 Kang, W. and S.J. Rey. "Urban income mobility as a multifaceted concept in the United States." American  Association of Geographers. Washington, D.C., April.
+1. 2019 Knaap, E., N. Finio, and S.J. Rey. "Spatial informatics for measuring urban inequality in international contexts." American  Association of Geographers. Washington, D.C., April.
+1. 2019 Rey, S.J. and W. Kang. "Spatial inequality, mobility, and equalization dynamics for US Metropolitan Areas 1970-2010." American  Association of Geographers. Washington, D.C., April.
+1. 2019 Knaap, E., S.J. Rey, L.J. Wolf, S. Han, and W. Kang.  "Introducing the Open-Source Neighborhood Analysis Package." Urban Affairs Association, Los Angeles, CA, April.
 1. 2018 Rey, S.J., E. Knaap, L.J. Wolf, S. Han, and W. Kang. "Spatio-temporal analysis of socioeconomic neighborhoods." Scientific Computing with Python. Austin, Tx. July.
 1. 2018 Franklin Rey, S., J. Franklin, S. Rey. "Plastic pollution on island beaches - a teachable moment." 7th International Conference on Environmental Future. Honolulu, HA. April.
 1. 2018 Kang, W. and S.J. Rey. "Smoothed estimators for Markov chains with sparse spatial observations." Association of American Geographers. New Orleans, LA, April. 

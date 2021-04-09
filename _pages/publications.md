@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 #### Books and Edited Volumes
 1. 2014 Anselin, L. and S.J. Rey, Modern Spatial Econometrics in Practice: A Guide to GeoDa, GeoDaSpace and PySAL. GeoDa Press, Chicago.
 1. 2010 Anselin, L. and S.J. Rey (eds.), Perspectives on Spatial Data Analysis. Springer Verlag, Berlin. 
@@ -12,11 +13,29 @@ author_profile: true
 1. 2002 Anselin, L. and S.J. Rey (eds.), New Tools for Spatial Data Analysis: Proceedings of a Workshop. Center for Spatially Integrated Social Science, University of California, Santa Barbara (CD-ROM).
 
 #### Refereed Journal Articles and Book Chapters
-1. 2020 Rey, S.J., S. Han, W. Kang, E. Knaap, R. Cortes. "A Visual Analytics System for Space–Time Dynamics of Regional Income Distributions Utilizing Animated Flow Maps and Rank‐based Markov Chains." Geographical Analysis. DOI: 10.1111/gean.12239.
-1. 2020 Wei, R., S.J. Rey, E. Knaap. "Efficient regionalization for spatially explicit neighborhood delineation." International Journal of Geographical Information Science. Forthcoming.
+1. 2021 Franklin Rey, S., J. Franklin, S.J. Rey. "Microplastic pollution on island beaches, Oahu, Hawai'i." PLOS One. Accepted 2021-02-04.
+1. 2021 Wei, R., S.J. Rey, T. Grubesic. "A probabilistic approach to address
+   data uncertainty in regionalization." Geographical Analysis. Accepted 2021-02-01.
+1. 2021 Delmelle, E. and S.J. Rey. "Neighborhood effects and neighborhood
+   dynamics." Geographical Analysis. Accepted 2021-01-14.
+1. 2021 Reades, J. and S.J. Rey. "Geographical Python Teaching Resources:
+   GeoPyTeR". Journal of Geographical Systems. Accepted 2021-01-08.
+1. 2021 Rey, S.J., L. Anselin, P. Amaral, D. Arribas-Bel, R.C. Cortes, J.D.
+   Gaboardi, W. Kang, E. Knaap, Z. Li, S. Lumnitz, T. M. Oshan, H. Shao, L.J. Wolf. "The PySAL ecosystem: philosophy and implementation."
+   Geographical Analysis. Accepted 2021-01-04.
+1. 2021 Rey, S.J., R. Cortes, E. Knaap. "Comparative spatial segregation
+   analytics." Spatial Demography. https://doi.org/10.1007/s40980-021-00075-w
+   .
+1. 2021 Wei, R., S.J. Rey, E. Knaap. "Efficient regionalization for spatially
+   explicit neighborhood delineation." International Journal of Geographical
+   Information Science, 35:  135-151.  
+   https://doi.org/10.1080/13658816.2020.1759806
+1. 2020 Rowe, Francisco, Maier,  Gunther, Arribas-Bel, Daniel,  and Sergio J. Rey.  "The Potential of Notebooks for Scientific Publication, Reproducibility, and Dissemination." Region. Vol 7 No 3, E1-E5.
+1. 2020 Shao, H., W. Li, W. Kang, S.J. Rey. "When Spatial Analytics Meets Cyberinfrastructure: an Interoperable and Replicable Platform for Online Spatial-Statistical-Visual Analytics. Journal of Geovisualization and Spatial Analysis. https://doi.org/10.1007/s41651-020-00056-5.
+1. 2020 Rey, S.J., S. Han, W. Kang, E. Knaap, R. Cortes. "A Visual Analytics System for Space–Time Dynamics of Regional Income Distributions Utilizing Animated Flow Maps and Rank-based Markov Chains." Geographical Analysis. DOI: 10.1111/gean.12239.
 1. 2020 Lumnitz, S., D. Arribas-Bel, R.X. Cortes, J.D. Gaboardi, V. Griess, W. Kang, T.M. Oshan, L. Wolf, and S. Rey.  "splot - visual analytics for spatial statistics". Journal of Open Source Software, 5(47), 1882. https://doi.org/10.21105/joss.01882.
-1. 2020 Kang, W.,  S.J. Rey, L. Wolf, E. Knaap, S. Han. "Sensitivity of sequence methods in the study of neighborhood change in the United States." Computers, Environent and Urban Systems. Forthcoming.
-1. 2019 Cortes, R.X., S.J. Rey, E. Knaap, and L.J. Wolf. "An Open-Source Framework for Non-Spatial and Spatial Segregation Measures: The PySAL Segregation Module." Journal of Computational Social Sciences. https://doi.org/10.1007/s42001-019-00059-3
+1. 2020 Kang, W.,  S.J. Rey, L. Wolf, E. Knaap, S. Han. "Sensitivity of sequence methods in the study of neighborhood change in the United States." Computers, Environent and Urban Systems.  https://doi.org/10.1016/j.compenvurbsys.2020.101480.
+1. 2020 Cortes, R.X., S.J. Rey, E. Knaap, and L.J. Wolf. "An Open-Source Framework for Non-Spatial and Spatial Segregation Measures: The PySAL Segregation Module." Journal of Computational Social Sciences,  3, 135–166. https://doi.org/10.1007/s42001-019-00059-3
 1. 2019 Han, S., S.J. Rey, E. Knaap, W. Kang, and L.J. Wolf. "Adaptive Choropleth Mapper: an Open-Source Web-Based Tool for Synchronous Exploration of Multiple Variables At Multiple Spatial Extents." International Journal of Geo-Information, 8(11) 509-527. https://doi.org/10.3390/ijgi8110509
 1. 2019 Kang, W. and S.J. Rey. "Inference for income mobility measures in the presence of spatial dependence." International Regional Science Review. Forthcoming.  
    https://doi.org/10.1177/0160017619826291
@@ -25,7 +44,10 @@ author_profile: true
    https://doi.org/10.1080/17421772.2019.1593495
 1. 2019 Rey, S.J. "Geographical Analysis: Reflections of a recovering editor." Geographical Analysis.  https://doi.org/10.1111/gean.12193
 1. 2019 Rey, S.J., W. Kang, and  L.J. Wolf. ‘Regional inequality dynamics, stochastic dominance, and spatial dependence’. Papers in Regional Science, vol 98., pp. 861-881.
-1. 2019 Wolf, L.J., E. Knaap, and S.J. Rey. "Geosilhouettes: geographical measures of cluster fit." Environment and Planning B: Urban Analytics and City Science. Forthcoming. https://doi.org/10.1177%2F2399808319875752
+1. 2019 Wolf, L.J., E. Knaap, and S.J. Rey. "Geosilhouettes: geographical
+   measures of cluster fit." Environment and Planning B: Urban Analytics and
+   City Science. Forthcoming.  
+   https://doi.org/10.1177%2F2399808319875752.
 1. 2018 Almasluikh, A., A. Magdy, and S. J. Rey. “Spatio-temporal analysis of market semantics over large public geosocial media data.” Journal of Location Based Services.  
    https://doi.org/10.1080/17489725.2018.1547428.
 1. 2018 Rey, S.J., E. Knaap, S. Han, L.J. Wolf, and W. Kang. "Spatio-temporal analysis of socioeconomic neighborhoods: The Open Source Longitudinal Neighborhood Analysis Package (OSLNAP)." Proceedings of the 17th Python in Science Conference (SciPy 2018). Pages 121-128. <https://doi.org/10.25080/Majora-4af1f417-012>.
@@ -424,4 +446,5 @@ Region et Developpement, 33: 107-134.
 1. 1987 Anselin, L., P. Krsnak and S. Rey. "Economic Impacts of the
 	University of California Santa Barbara on the Region: An Input-Output
 	Analysis." Interim Report to UCSB. 
+
 
