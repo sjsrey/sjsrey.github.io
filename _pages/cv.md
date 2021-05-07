@@ -108,6 +108,7 @@ Geo-Information.
 1. 2002 Anselin, L. and S.J. Rey (eds.), New Tools for Spatial Data Analysis: Proceedings of a Workshop. Center for Spatially Integrated Social Science, University of California, Santa Barbara (CD-ROM).
 
 #### Refereed Journal Articles and Book Chapters
+1. 2021 Solem, M., C.C. Dony, T. Herman, K. Leon, A. Magdy, A. Nara, W. Ray, S.J. Rey, R. Russell. "Building educational capacity for inclusive geocomputation: A research-practice partnership in Southern California." Journal of Geograpy. Accepted 2021-05-07.
 1. 2021 Franklin Rey, S., J. Franklin, S.J. Rey. "Microplastic pollution on island beaches, Oahu, Hawai'i." PLOS One. Accepted 2021-02-04.
 1. 2021 Wei, R., S.J. Rey, T. Grubesic. "A probabilistic approach to address
    data uncertainty in regionalization." Geographical Analysis. Accepted 2021-02-01.
