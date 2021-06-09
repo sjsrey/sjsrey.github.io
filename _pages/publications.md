@@ -17,6 +17,7 @@ author_profile: true
 1. 2002 Anselin, L. and S.J. Rey (eds.), New Tools for Spatial Data Analysis: Proceedings of a Workshop. Center for Spatially Integrated Social Science, University of California, Santa Barbara (CD-ROM).
 
 #### Refereed Journal Articles and Book Chapters
+1. 20201 Kang, W., E. Knaap, S.J. Rey. Changes in the economic status of neighborhoods in U.S. metropolitan areas from 1980 to 2010: stability, growth, and polarization. Urban Studies. Accepted 2021-06-09.
 1. 2021 Gaboardi, J., S.J. Rey, S. Lumnitz.  spaghetti: spatial network analysis in PySAL. Journal of Open Source Software,  6(62), 2826, https://doi.org/10.21105/joss.0282
 1. 2021  Saxon, J., J. Koschinsky, K. Acosta, V. Anguiano, L. Anselin, S.J. Rey. An Open Software Environment to Make Spatial Access Metrics More Accessible. Journal of Computational Social Sciences. Accepted 2021-05-13.
 1. 2021 Solem, M., C.C. Dony, T. Herman, K. Leon, A. Magdy, A. Nara, W. Ray, S.J. Rey, R. Russell. "Building educational capacity for inclusive geocomputation: A research-practice partnership in Southern California." Journal of Geography. Accepted 2021-05-07.
