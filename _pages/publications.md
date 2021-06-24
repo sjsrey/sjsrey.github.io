@@ -10,7 +10,7 @@ author_profile: true
 1. Rey, S.J., D. Arribas-Bel, and L.J. Wolf, Geographical Data
    Science with Python. CRC Press, Boca Raton. Under Contract.
 1. Rey, S.J. and R. Franklin (eds.) Handbook of Spatial Analysis for the Social
-   Sciences. Edgar Elgar, Cheltenham. Under Contract. 
+   Sciences. Edward Elgar, Cheltenham. Under Contract. 
 1. 2014 Anselin, L. and S.J. Rey, Modern Spatial Econometrics in Practice: A Guide to GeoDa, GeoDaSpace and PySAL. GeoDa Press, Chicago.
 1. 2010 Anselin, L. and S.J. Rey (eds.), Perspectives on Spatial Data Analysis. Springer Verlag, Berlin. 
 1. 2004 Anselin, L., R.J.G.M. Florax and S.J. Rey (eds.), Advances in Spatial Econometrics. Methodology, Tools and Applications. Springer Verlag, Berlin.
