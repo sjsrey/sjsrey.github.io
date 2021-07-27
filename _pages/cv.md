@@ -138,8 +138,15 @@ Geo-Information.
 1. 2020 Cortes, R.X., S.J. Rey, E. Knaap, and L.J. Wolf. "An Open-Source Framework for Non-Spatial and Spatial Segregation Measures: The PySAL Segregation Module." Journal of Computational Social Sciences,  3, 135–166. https://doi.org/10.1007/s42001-019-00059-3
 1. 2019 Han, S., S.J. Rey, E. Knaap, W. Kang, and L.J. Wolf. "Adaptive Choropleth Mapper: an Open-Source Web-Based Tool for Synchronous Exploration of Multiple Variables At Multiple Spatial Extents." International Journal of Geo-Information, 8(11) 509-527. https://doi.org/10.3390/ijgi8110509
 1. 2019 Kang, W. and S.J. Rey. "Inference for income mobility measures in the presence of spatial dependence." International Regional Science Review. Forthcoming.  
-   https://doi.org/10.1177/0160017619826291
-1. 2019 Han, S., M. Tsou, E. Knaap, S.J. Rey, and G. Cao. "How do cities flow in an emergency? Tracing human mobility patterns during a natural disaster with big data and geospatial data science." Urban Science,  3(2), 51; https://doi.org/10.3390/urbansci3020051
+1. 2019 Dony, C.C., A. Magdy, S.J. Rey, A. Nara, T. Herman, and M. Solem. "RPP
+   for geocomputation: Partnering on curriculum in geography and computer
+   science."  In 2019 Research on Equity and Sustained Participation in
+   Engineering, Computing, and Technology (RESPECT) IEEE: 12-13. DOI:
+   https://doi.org/10.1109/RESPECT46404.2019.8985934
+1. 2019 Han, S., M. Tsou, E. Knaap, S.J. Rey, and G. Cao. "How do cities flow in
+   an emergency? Tracing human mobility patterns during a natural disaster with
+   big data and geospatial data science." Urban Science,  3(2), 51;
+   https://doi.org/10.3390/urbansci3020051
 1. 2019 Rey, S.J. "PySAL: The first 10 years." Spatial Economic Analysis.  
    https://doi.org/10.1080/17421772.2019.1593495
 1. 2019 Rey, S.J. "Geographical Analysis: Reflections of a recovering editor." Geographical Analysis.  https://doi.org/10.1111/gean.12193
