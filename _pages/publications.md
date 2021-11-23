@@ -17,8 +17,10 @@ author_profile: true
 1. 2002 Anselin, L. and S.J. Rey (eds.), New Tools for Spatial Data Analysis: Proceedings of a Workshop. Center for Spatially Integrated Social Science, University of California, Santa Barbara (CD-ROM).
 
 #### Refereed Journal Articles and Book Chapters
-1. 2021 Sauer, J., T. Oshan, S.J. Rey, L.J. Wolf. The Importance of Null Hypotheses: Understanding Differences in Local Moran’s Ii under Heteroskedasticity. Geographical Analysis. Accepted 2021-09-13.
-1. 2021 Kang, W., E. Knaap, S.J. Rey. Changes in the economic status of neighborhoods in U.S. metropolitan areas from 1980 to 2010: stability, growth, and polarization. Urban Studies. Accepted 2021-06-09.
+1. 2021 Feng, X., R. Wei, S.J. Rey. The Max-p-Compact-regions Problem. Transactions in GIS. Accepted 2021-10-28.
+1. 2021 Jenerette, G., K. Anderson,  M. Cadenasso, M. Fenn, J. Franklin, M. Goulden,  L. Larios  S. Pincetl, H. Regan,  S. Rey, L. Santiago,  A. Syphard. An Expanded Framework for Wildland-Urban Interfaces and their Management. Frontiers in Ecology and the Environment. Accepted 2021-11-01.
+1. 2021 Sauer, J., T. Oshan, S.J. Rey, L.J. Wolf. The Importance of Null Hypotheses: Understanding Differences in Local Moran’s Ii under Heteroskedasticity. Geographical Analysis. Geographical Analysis (2021). DOI: 10.1111/gean.12304. 
+1. 2021 Kang, W., E. Knaap, S.J. Rey. Changes in the economic status of neighborhoods in U.S. metropolitan areas from 1980 to 2010: stability, growth, and polarization. Urban Studies. DOI: 10.1177/00420980211042549.
 1. 2021 Gaboardi, J., S.J. Rey, S. Lumnitz.  spaghetti: spatial network analysis in PySAL. Journal of Open Source Software,  6(62), 2826, https://doi.org/10.21105/joss.0282
 1. 2021  Saxon, J., J. Koschinsky, K. Acosta, V. Anguiano, L. Anselin, S.J. Rey. An Open Software Environment to Make Spatial Access Metrics More Accessible. Journal of Computational Social Sciences. Accepted 2021-05-13.
 1. 2021 Solem, M., C.C. Dony, T. Herman, K. Leon, A. Magdy, A. Nara, W. Ray, S.J. Rey, R. Russell. "Building educational capacity for inclusive geocomputation: A research-practice partnership in Southern California." Journal of Geography. Accepted 2021-05-07.
@@ -73,7 +75,7 @@ author_profile: true
 1. 2018 Smith, R. and S.J. Rey "Spatial Approaches to Measure Subnational Inequality: Implications for Sustainable Development Goals". Development and Policy Review, 36:O657–O675. <https://doi.org/10.1111/dpr.12363>.
 1. 2017 Clark, S.D. and S.J. Rey.  "Temporal dynamics in local vehicle ownership in Great Britan." Journal of Transport Geography, 62: 30-37.
 1. 2017 Fan, C., S.W. Myint, S.J. Rey and W. Li. "Time series anaysis of urban dynamics using sequential Landsat imagery and spatial statistical modeling." International Journal of Applied Earth Observation and Geoinformation, 58:12-25. <https://doi.org/10.1016/j.jag.2017.01.009>.
-1. 2017 Rey, S.J. "Python for GIS." In Wilson, J. (ed.) Geographic Information Science & Technology Body of Knowledge. University Consortium for Geographic Information Science. <doi:10.22224/gistbok/2017.3.4>.
+1. 2017 Rey, S.J. "Python for GIS." In Wilson, J. (ed.) Geographic Information Science & Technology Body of Knowledge. University Consortium for Geographic Information Science. <DOI:10.22224/gistbok/2017.3.4>.
 1. 2017 Arribas-Bel, D., T. de Graaff and S.J. Rey. "Looking at John Snow's cholera map from the XXIst century: a practical primer on reproducibility and open science. In R.W. Jackson and P. Schaeffer (eds.) Regional Research Fontiers. Springer. Page 283-306.
 1. 2017 Jackson, R.,  S.J. Rey and P. Jarosi. "Object orientation, open regional science, and cumulative knowledge building." In R.W. Jackson and P. Schaeffer (eds.) Regional Research Fontiers. Springer. Pages 259-282.
 1. 2017 Laura, J. and S.J. Rey "Spatial data analytics on heterogeneous multi- and many-core parallel architectures." In Shekhar, S.  and H. Xiong (eds.) Encyclopedia of GIS. Springer. Pages 1972-1981.
@@ -94,7 +96,7 @@ author_profile: true
 1. 2015 Wolf, L.J. and S.J. Rey. "On the lumpability of regional income convergence." Letters in Spatial and Resource Sciences. DOI 10.1007/s1276-015-0156-0.
 1. 2014 Anselin, L., S.J. Rey and W. Li. "Metadata and provenance for spatial analysis: the case of spatial weights." International Journal of Geographical Information Science, 28: 2261-2280.
 1. 2014 Ertz, O., S.J. Rey and S. Joost. "The open source dynamics in geospatial research and education." Journal of Spatial Information Science, 8: 67-71. 
-1. 2014 Folch, D.C. and S.J. Rey "The centralization index: A measure of local spatial segregation." Papers in Regional Science. doi:10.1111/pirs.12145.
+1. 2014 Folch, D.C. and S.J. Rey "The centralization index: A measure of local spatial segregation." Papers in Regional Science. DOI:10.1111/pirs.12145.
 1. 2014 Li, X., W. Li, L. Anselin, S. Rey and J. Koschinsky "A mapreduce algorithm to create contiguity weights for spatial analysis of big data." Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data, 50-53.
 1. 2014 Mack, E.A., Y. Zheng, S.J. Rey and R. Maciejewski.
   "Spatio-temporal analysis of industrial composition with IVIID: An
