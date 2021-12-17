@@ -1323,7 +1323,7 @@ Sponsor: Research, Scholarly and
 
 #### Post Doctoral Positions
 
-- 2020- Xin Fang.* Scalable Geospatial Analytics
+- 2020-2021 Xin Feng.* Scalable Geospatial Analytics
 - 2018-2020 Wei Kang.* Spatiotemporal Analytics
 - 2018-2020 Su Han.* Neighborhoods in Space-Time Contexts
 - 2018-2019  Renan Cortes.* Neighborhoods in Space-Time Contexts
