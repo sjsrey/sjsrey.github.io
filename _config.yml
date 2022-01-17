@@ -95,7 +95,7 @@ author:
   facebook         :
   foursquare       :
   github           : "sjsrey"
-  google_plus      :
+  google_plus      : #
   keybase          :
   instagram        :
   lastfm           :
@@ -239,7 +239,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: true 
 
 # Sass/SCSS
 sass:
