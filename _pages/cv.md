@@ -79,6 +79,7 @@ redirect_from:
 
 #### Themed Issues
 
+- 2022 Co-editor, "Open Source Software for Spatial Data Science." Geographical Analysis
 - 2021 Co-editor, "Neighborhood Effects and Neighborhoood Dynamics." Geographical Analysis
 - 2013 Co-editor, "Spatial data infrastructures, cyberinfrastructure,
 and e-science for GIScience." International Journal of
@@ -102,33 +103,36 @@ Geo-Information.
 1. Rey, S.J., D. Arribas-Bel, and L.J. Wolf, Geographical Data
    Science with Python. CRC Press, Boca Raton. Under Contract.
 1. Rey, S.J. and R. Franklin (eds.) Handbook of Spatial Analysis for the Social
-   Sciences. Edward Elgar, Cheltenham. Under Contract. 
+   Sciences. Edward Elgar, Cheltenham.  In press. 
 1. 2014 Anselin, L. and S.J. Rey, Modern Spatial Econometrics in Practice: A Guide to GeoDa, GeoDaSpace and PySAL. GeoDa Press, Chicago.
 1. 2010 Anselin, L. and S.J. Rey (eds.), Perspectives on Spatial Data Analysis. Springer Verlag, Berlin. 
 1. 2004 Anselin, L., R.J.G.M. Florax and S.J. Rey (eds.), Advances in Spatial Econometrics. Methodology, Tools and Applications. Springer Verlag, Berlin.
 1. 2002 Anselin, L. and S.J. Rey (eds.), New Tools for Spatial Data Analysis: Proceedings of a Workshop. Center for Spatially Integrated Social Science, University of California, Santa Barbara (CD-ROM).
 
 #### Refereed Journal Articles and Book Chapters
-1. 2021 Feng, X., R. Wei, S.J. Rey. The Max-p-Compact-regions Problem. Transactions in GIS. Accepted 2021-10-28.
+1. 2022 Rey, S.J., E. Knaap. The legacy of redlining: A spatial dynamics perspective. International Regional Science Review. Forthcoming.
+1. 2022 Feng, X., G. Barcelos, J.D. Gaboardi, E. Knaap, R. Wei, L. J. Wolf, Q. Zhao,  S.J. Rey. spopt: A Python Package for Solving Spatial Optimization Problems in PySAL. Journal of Open Source Software 7, no. 74: 3330. https://doi.org/10.21105/joss.03330.
+1. 2022 Anselin, L., S.J. Rey. Open Source Software for Spatial Data Science. Geographical Analysis. https://doi.org/10.1111/gean.12339.
+1. 2022 Rey, S.J. Big Code. Geographical Analysis. https://doi-org.libproxy.sdsu.edu/10.1111/gean.12330
+1. 2022  Saxon, J., J. Koschinsky, K. Acosta, V. Anguiano, L. Anselin, S.J. Rey. An Open Software Environment to Make Spatial Access Metrics More Accessible. Journal of Computational Social Sciences, 5: 265-284. https://doi.org/10.1007/s42001-021-00126-8.
+1. 2021 Feng, X., R. Wei, S.J. Rey. The Max-p-Compact-regions Problem. Transactions in GIS 26 (2): 717-734.  https://doi-org.libproxy.sdsu.edu/10.1111/tgis.12874 
 1. 2021 Jenerette, G., K. Anderson,  M. Cadenasso, M. Fenn, J. Franklin, M. Goulden,  L. Larios  S. Pincetl, H. Regan,  S. Rey, L. Santiago,  A. Syphard. An Expanded Framework for Wildland-Urban Interfaces and their Management. Frontiers in Ecology and the Environment. Accepted 2021-11-01.
 1. 2021 Sauer, J., T. Oshan, S.J. Rey, L.J. Wolf. The Importance of Null Hypotheses: Understanding Differences in Local Moran’s Ii under Heteroskedasticity. Geographical Analysis. Geographical Analysis (2021). DOI: 10.1111/gean.12304. 
 1. 2021 Kang, W., E. Knaap, S.J. Rey. Changes in the economic status of neighborhoods in U.S. metropolitan areas from 1980 to 2010: stability, growth, and polarization. Urban Studies. DOI: 10.1177/00420980211042549.
 1. 2021 Gaboardi, J., S.J. Rey, S. Lumnitz.  spaghetti: spatial network analysis in PySAL. Journal of Open Source Software,  6(62), 2826, https://doi.org/10.21105/joss.0282
-1. 2021  Saxon, J., J. Koschinsky, K. Acosta, V. Anguiano, L. Anselin, S.J. Rey. An Open Software Environment to Make Spatial Access Metrics More Accessible. Journal of Computational Social Sciences. Accepted 2021-05-13.
-1. 2021 Solem, M., C.C. Dony, T. Herman, K. Leon, A. Magdy, A. Nara, W. Ray, S.J. Rey, R. Russell. "Building educational capacity for inclusive geocomputation: A research-practice partnership in Southern California." Journal of Geography. Accepted 2021-05-07.
-1. 2021 Franklin Rey, S., J. Franklin, S.J. Rey. "Microplastic pollution on island beaches, Oahu, Hawai'i." PLOS One. Accepted 2021-02-04.
+1. 2021 Solem, M., C.C. Dony, T. Herman, K. Leon, A. Magdy, A. Nara, W. Ray, S.J. Rey, R. Russell. "Building educational capacity for inclusive geocomputation: A research-practice partnership in Southern California." Journal of Geography. https://doi.org/10.1080/00221341.2021.1933140.
+1. 2021 Franklin Rey, S., J. Franklin, S.J. Rey. "Microplastic pollution on island beaches, Oahu, Hawai'i." PLOS One.  https://doi.org/10.1371/journal.pone.0247224.
 1. 2021 Wei, R., S.J. Rey, T. Grubesic. "A probabilistic approach to address
-   data uncertainty in regionalization." Geographical Analysis. Accepted 2021-02-01.
+   data uncertainty in regionalization." Geographical Analysis, 54(2): 405-426. https://doi.org/10.1111/gean.12282.
 1. 2021 Delmelle, E. and S.J. Rey. "Neighborhood effects and neighborhood
-   dynamics." Geographical Analysis. Accepted 2021-01-14.
+   dynamics." Geographical Analysis, 53 (2): 167-169. https://doi-org/10.1111/gean.12280. 
 1. 2021 Reades, J. and S.J. Rey. "Geographical Python Teaching Resources:
-   GeoPyTeR". Journal of Geographical Systems. Accepted 2021-01-08.
+   GeoPyTeR". Journal of Geographical Systems. 23: 579-597. https://doi-org/10.1007/s10109-021-00346-6.
 1. 2021 Rey, S.J., L. Anselin, P. Amaral, D. Arribas-Bel, R.C. Cortes, J.D.
    Gaboardi, W. Kang, E. Knaap, Z. Li, S. Lumnitz, T. M. Oshan, H. Shao, L.J. Wolf. "The PySAL ecosystem: philosophy and implementation."
-   Geographical Analysis. Accepted 2021-01-04.
+   Geographical Analysis. https://doi-org/10.1111/gean.12276.
 1. 2021 Rey, S.J., R. Cortes, E. Knaap. "Comparative spatial segregation
    analytics." Spatial Demography. https://doi.org/10.1007/s40980-021-00075-w
-   .
 1. 2021 Wei, R., S.J. Rey, E. Knaap. "Efficient regionalization for spatially
    explicit neighborhood delineation." International Journal of Geographical
    Information Science, 35:  135-151.  
@@ -140,7 +144,8 @@ Geo-Information.
 1. 2020 Kang, W.,  S.J. Rey, L. Wolf, E. Knaap, S. Han. "Sensitivity of sequence methods in the study of neighborhood change in the United States." Computers, Environent and Urban Systems.  https://doi.org/10.1016/j.compenvurbsys.2020.101480.
 1. 2020 Cortes, R.X., S.J. Rey, E. Knaap, and L.J. Wolf. "An Open-Source Framework for Non-Spatial and Spatial Segregation Measures: The PySAL Segregation Module." Journal of Computational Social Sciences,  3, 135–166. https://doi.org/10.1007/s42001-019-00059-3
 1. 2019 Han, S., S.J. Rey, E. Knaap, W. Kang, and L.J. Wolf. "Adaptive Choropleth Mapper: an Open-Source Web-Based Tool for Synchronous Exploration of Multiple Variables At Multiple Spatial Extents." International Journal of Geo-Information, 8(11) 509-527. https://doi.org/10.3390/ijgi8110509
-1. 2019 Kang, W. and S.J. Rey. "Inference for income mobility measures in the presence of spatial dependence." International Regional Science Review. Forthcoming.  
+1. 2019 Kang, W. and S.J. Rey. "Inference for income mobility measures in the presence of spatial dependence." International Regional Science Review, 43(1-2): 10-39.  
+https://doi-org/10.1177/0160017619826291.
 1. 2019 Dony, C.C., A. Magdy, S.J. Rey, A. Nara, T. Herman, and M. Solem. "RPP
    for geocomputation: Partnering on curriculum in geography and computer
    science."  In 2019 Research on Equity and Sustained Participation in
@@ -156,7 +161,7 @@ Geo-Information.
 1. 2019 Rey, S.J., W. Kang, and  L.J. Wolf. ‘Regional inequality dynamics, stochastic dominance, and spatial dependence’. Papers in Regional Science, vol 98., pp. 861-881.
 1. 2019 Wolf, L.J., E. Knaap, and S.J. Rey. "Geosilhouettes: geographical
    measures of cluster fit." Environment and Planning B: Urban Analytics and
-   City Science. Forthcoming.  
+   City Science, 48 (3): 521-539.  
    https://doi.org/10.1177%2F2399808319875752.
 1. 2018 Almasluikh, A., A. Magdy, and S. J. Rey. “Spatio-temporal analysis of market semantics over large public geosocial media data.” Journal of Location Based Services.  
    https://doi.org/10.1080/17489725.2018.1547428.
@@ -1260,6 +1265,7 @@ Sponsor: Research, Scholarly and
 ### Courses Taught
 
 #### Short and Invited Courses
+- Spatial Inequality Analytics with PySAL (IALE 2022, April)
 - Spatial Data Analysis with PySAL (SciPy India 2020, December)
 - Spatial Data Science with PySAL (NARSC 2020, San Diego, November)
 - Spatial Data Science with PySAL (SpatialAPI 2020, Seattle, October)
@@ -1294,7 +1300,7 @@ Sponsor: Research, Scholarly and
 - GIS for Public Policy
 - Spatial Dimensions of Public Policy
 - Quantitative Methods for Public Policy
-- Regional Policy-Making Across Administrative Juristictions
+- Regional Policy-Making Across Administrative Jurisdictions
 
 #### Arizona State University
 
@@ -1386,6 +1392,9 @@ Sponsor: Research, Scholarly and
   Space. SDSU-UCSB Joint Doctoral Program.
 - 1998 Long Gen Ying. Modeling the Temporal and the Spatial Dynamics of Chinese
   Economic Growth. SDSU-UCSB Joint Doctoral Program.
+
+#### Masters In Progress
+- Jessica Embury. San Diego State University
 
 
 #### Masters Completed

@@ -9,6 +9,7 @@ author_profile: true
 ### Courses Taught
 
 #### Short and Invited Courses
+- Spatial Inequality Analytics with PySAL (IALE 2022, April)
 - Spatial Data Analysis with PySAL (SciPy India 2020, December)
 - Spatial Data Science with PySAL (NARSC 2020, San Diego, November)
 - Spatial Data Science with PySAL (SpatialAPI 2020, Seattle, October)
@@ -43,7 +44,7 @@ author_profile: true
 - GIS for Public Policy
 - Spatial Dimensions of Public Policy
 - Quantitative Methods for Public Policy
-- Regional Policy-Making Across Administrative Juristictions
+- Regional Policy-Making Across Administrative Jurisdictions
 
 #### Arizona State University
 
@@ -135,6 +136,9 @@ author_profile: true
   Space. SDSU-UCSB Joint Doctoral Program.
 - 1998 Long Gen Ying. Modeling the Temporal and the Spatial Dynamics of Chinese
   Economic Growth. SDSU-UCSB Joint Doctoral Program.
+
+#### Masters In Progress
+- Jessica Embury. San Diego State University
 
 
 #### Masters Completed
