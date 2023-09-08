@@ -137,10 +137,20 @@ author_profile: true
 
 #### Conference Participation and Presentations
 
+1. 2023 Rey, S.J., E. Knaap, Z. Neal, C. Andris. "GeoGraphs: A computational
+   framework for spatial social networks." International Network for Social
+   Network Analysi Sunbelt Conference. Portland, OR. June.
+1. 2023 Rey, S.J., E. Knaap, R. Wei, D. Skrah. "School neighborhoods
+   or neighborhood schools? The spatial structure of the school-neighborhood
+   nexus." Western Regional Science Association, Waikoloa, HI. February.
+2. 2022 Knaap, E. and S.J. Rey. "Measuring two decades of urban spatial
+   structure. The evolution of agglomeration economies in American metros."
+   North American Regional Science Conference. Montreal, CA. November.
+3. 2022 Knaap, E. and S.J. Rey. "Segregated by design? The effect of street network topological structure on the measurement of urban segregation." North American Regional Science Conference. Montreal, CA. November.
 1. 2021 Dony, C., A. Nara, T. Herman, M. Solem, K. Leon, S.J. Rey. "Research-Practice Partnerships (RPPs) to modernize geography education in high school and college." American Association of Geographers. Virtual. April.
 1. 2021 Rey, S.J. and E. Knaap "Comparative spatial segregation analytics." Western Regional Science Association, On-line. February.
 1. 2021 Rey, S.J. and E. Knaap "The legacy of redlining: A spatial dynamics perspective." Western Regional Science Association, On-line. February.
-1. 2019 Kang, W. and S.J. Rey ``A new optimal matching approach to uncovering neighborhood sequencing structure.'' Regional Science Association. Minneapolis, Pittsburgh. November.
+1. 2019 Kang, W. and S.J. Rey ``A new optimal matching approach to uncovering neighborhood sequencing structure.'' Regional Science Association. Minneapolis, MN. November.
 1. 2019 Cortes, R.X. and S.J. Rey. "Building an open-source framework for non-Spatial and Spatial Segregation measures." American  Association of Geographers. Washington, D.C., April.
 1. 2019 Han, S., S.J. Rey, E. Knaap, W. Kang, and L.J. Wolf. "Adaptive Choropleth Mapper: A web-based tool for synchronous exploration of multiple variables at multiple spatial scales."  American  Association of Geographers. Washington, D.C., April.
 1. 2019 Kang, W. and S.J. Rey. "Urban income mobility as a multifaceted concept in the United States." American  Association of Geographers. Washington, D.C., April.
