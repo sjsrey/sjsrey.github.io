@@ -76,7 +76,7 @@ redirect_from:
 #### Themed Issues
 
 - 2022 Co-editor, "Open Source Software for Spatial Data Science." Geographical Analysis
-- 2021 Co-editor, "Neighborhood Effects and Neighborhoood Dynamics." Geographical Analysis
+- 2021 Co-editor, "Neighborhood Effects and Neighborhood Dynamics." Geographical Analysis
 - 2013 Co-editor, "Spatial data infrastructures, cyberinfrastructure,
 and e-science for GIScience." International Journal of
 Geo-Information.
