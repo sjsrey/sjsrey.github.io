@@ -17,11 +17,18 @@ author_profile: true
 1. 2002 Anselin, L. and S.J. Rey (eds.), New Tools for Spatial Data Analysis: Proceedings of a Workshop. Center for Spatially Integrated Social Science, University of California, Santa Barbara (CD-ROM).
 
 #### Refereed Journal Articles and Book Chapters
-1. 2023 Rey, S.J. "Intersectional urban dynamics: A joint Markov chains approach." *Letters in Spatial and Resource Sciences*. In press.
+
+1. 2024 Xiong, N., Y.D. Wei, S.J. Rey. "Urban sprawl and racial inequality in
+   intergenerational mobility." *Journal of Economic Geography* doi: [10.1093/jeg/lbad039](http://dx.doi.org/10.1093/jeg/lbad039).
+1. 2023 Rey, S.J. "Intersectional urban dynamics: A joint Markov chains
+   approach." *Letters in Spatial and Resource Sciences*. doi: [10.1007/s12076-023-00356-6](https://doi.org/10.1007/s12076-023-00356-6).
 1. 2023 Knaap, E. and S.J. Rey. "Segregated by design? Street network
    topological structure and the measurement of urban segregation."
    *Environment and Planning B; Urban Analysis and City Science*.
    doi: [10.1177/23998083231197956](https://doi.org/10.1177/23998083231197956).
+1. 2023 Alrashid, H., A. Magdy, S. Rey. "Statistical inference for spatial
+   regionalization." *SIGSPATIAL '23': Proceedings of the 31st ACM Conference on
+   Advances in Geographic Information Systems* 65: 1-12. doi: [10.1145/3589132.3625608](https://doi.org/10.1145/3589132.3625608).
 1. 2023 Rey, S.J. and E. Casimiro Vieyra. "Spatial inequality and place mobility
    in Mexico: 2000–2015." *Journal of Applied Geography*.  
    doi: [10.1016/j.apgeog.2023.102871](https://doi.org/10.1016/j.apgeog.2023.102871).
