@@ -137,9 +137,12 @@ author_profile: true
 
 #### Conference Participation and Presentations
 
-1. 2023 Rey, S.J., E. Knaap, Z. Neal, C. Andris. "GeoGraphs for spatially
-   embedded networks." XVII Spatial Econometrics Association World
-   Conference. San Diego, CA. November.
+1. 2024 Rey, S.J. "Intersectional urban dynamics: A joint Markov chains
+   framework." Western Regional Science Association. Monterey, CA. February.
+1. 2024 Rey, S.J. "Great Minds in Regional Science on Arthur Getis." Western
+   Regional Science Association. Monterey, CA. February.
+1. 2024 Skrah, D., S.J. Rey. "Neighborhood fragmentation dynamics: A comparative
+   perspective." Western Regional Science Association. Monterey, CA. February.
 1. 2023 Rey, S.J., E. Knaap, Z. Neal, C. Andris. "GeoGraphs: A computational
    framework for spatial social networks." International Network for Social
    Network Analysi Sunbelt Conference. Portland, OR. June.

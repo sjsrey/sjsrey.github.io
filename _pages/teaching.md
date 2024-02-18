@@ -9,6 +9,8 @@ author_profile: true
 ### Courses Taught
 
 #### Short and Invited Courses
+- Spatial Data Science with PySAL (WRSA 2024, February)
+- Spatial Data Science with PySAL (NARSC 2023, November)
 - Spatial Inequality Analytics with PySAL (IALE 2022, April)
 - Spatial Data Analysis with PySAL (SciPy India 2020, December)
 - Spatial Data Science with PySAL (NARSC 2020, San Diego, November)

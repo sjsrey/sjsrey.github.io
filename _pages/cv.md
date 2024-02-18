@@ -22,11 +22,12 @@ redirect_from:
 ### Honors and Awards
 
 - 2017 David Boyce Award for Service to Regional Science. North American Regional Science Council.
-- 2016 Elected Fellow, Regional Science Association International
-- 2016 Research Award, University Consortium for Geographic Information Science
+- 2016 Elected Fellow, Regional Science Association International.
+- 2016 Research Award, University Consortium for Geographic Information Science.
 - 2015 Outstanding Service Award, Spatial Analysis and Modeling Specialty Group, Association of American Geographers.
-- 2014 President, Western Regional Science Association
-- 2007- Fellow, Spatial Econometrics Association
+- 2015 Fellow, Western Regional Science Association.
+- 2014 President, Western Regional Science Association.
+- 2007- Fellow, Spatial Econometrics Association.
 - 1999-00 Faculty Fellow. Center on Computational Science and
  Engineering. San Diego State University.
 - 1998 Geoffrey J.D. Hewings Distinguished Young Scholars
@@ -56,8 +57,8 @@ redirect_from:
 
 ### Editorial Appointments
 
-- 2018-- Editorial board member, Annals Association of American Geographers
 - 2018-- Editorial board member, Geographical Analysis
+- 2018--23 Editorial board member, Annals Association of American Geographers
 - 2018--20 Editorial board member, Applied Geography
 - 2014--17 Editor, Geographical Analysis
 - 1999--14 Editor, International Regional Science Review
@@ -940,9 +941,12 @@ doi: [journl/v33y2011p107-135.html](https://ideas.repec.org/a/tou/journl/v33y201
 
 #### Conference Participation and Presentations
 
-1. 2023 Rey, S.J., E. Knaap, Z. Neal, C. Andris. "GeoGraphs for spatially
-   embedded networks." XVII Spatial Econometrics Association World
-   Conference. San Diego, CA. November.
+1. 2024 Rey, S.J. "Intersectional urban dynamics: A joint Markov chains
+   framework." Western Regional Science Association. Monterey, CA. February.
+1. 2024 Rey, S.J. "Great Minds in Regional Science on Arthur Getis." Western
+   Regional Science Association. Monterey, CA. February.
+1. 2024 Skrah, D., S.J. Rey. "Neighborhood fragmentation dynamics: A comparative
+   perspective." Western Regional Science Association. Monterey, CA. February.
 1. 2023 Rey, S.J., E. Knaap, Z. Neal, C. Andris. "GeoGraphs: A computational
    framework for spatial social networks." International Network for Social
    Network Analysi Sunbelt Conference. Portland, OR. June.
@@ -1380,7 +1384,7 @@ GeoPython. Basil, Switzerland. June.
 ### Research Grants and Contracts
 - 2021-24 Neighborhoods and Education. The Bill and Melinda Gates Foundation.
   Principal Investigator ($534,000).
-- 2021-23 Encoding Geography - Scaling up an RPP to achieve inclusive geocomputational education. Co-Principal Investigator. Sponsor: National Science Foundation ($400,856).
+- 2021-24 Encoding Geography - Scaling up an RPP to achieve inclusive geocomputational education. Co-Principal Investigator. Sponsor: National Science Foundation ($400,856).
 - 2020-25 Colorado Adoption/Twin Study of Lifespan behavioral development & cognitive aging (CATSLife2). Co-Investigator. Sponsor: National Institute On Aging  ($11,308,000). 
 - 2018-22 RIDIR: Scalable Geospatial Analytics for Social Science Research. Principal Investigator. Sponsor: National Science Foundation ($1,000,000).
 - 2018-23 Comparative Regional Inequality Dynamics: Multiscalar and Multinational Perspectives. Principal Investigator. Sponsor: National Science Foundation ($327,513).
@@ -1523,6 +1527,8 @@ Sponsor: Research, Scholarly and
 ### Courses Taught
 
 #### Short and Invited Courses
+- Spatial Data Science with PySAL (WRSA 2024, February)
+- Spatial Data Science with PySAL (NARSC 2023, November)
 - Spatial Inequality Analytics with PySAL (IALE 2022, April)
 - Spatial Data Analysis with PySAL (SciPy India 2020, December)
 - Spatial Data Science with PySAL (NARSC 2020, San Diego, November)
