@@ -21,14 +21,15 @@ redirect_from:
   
 ### Honors and Awards
 
+- 2024 Fellow, American Association for the Advancement of Science
 - 2017 David Boyce Award for Service to Regional Science. North American Regional Science Council.
-- 2016 Elected Fellow, Regional Science Association International.
+- 2016 Fellow, Regional Science Association International.
 - 2016 Research Award, University Consortium for Geographic Information Science.
 - 2015 Outstanding Service Award, Spatial Analysis and Modeling Specialty Group, Association of American Geographers.
 - 2015 Fellow, Western Regional Science Association.
 - 2014 President, Western Regional Science Association.
-- 2007- Fellow, Spatial Econometrics Association.
-- 1999-00 Faculty Fellow. Center on Computational Science and
+- 2007 Fellow, Spatial Econometrics Association.
+- 1999 Faculty Fellow. Center on Computational Science and
  Engineering. San Diego State University.
 - 1998 Geoffrey J.D. Hewings Distinguished Young Scholars
   Award. North American Regional Science Council.
