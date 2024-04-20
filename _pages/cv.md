@@ -109,6 +109,9 @@ Geo-Information.
 
 #### Refereed Journal Articles and Book Chapters
 
+1. 2024 Knaap, E. and S.J. Rey. "Measuring two decades of urban spatial
+   structure: The evolution of agglomeration economies in American metros."
+   *Computers, Environment and Urban Systems*. Forthcoming.
 1. 2024 Xiong, N., Y.D. Wei, S.J. Rey. "Urban sprawl and racial inequality in
    intergenerational mobility." *Journal of Economic Geography* doi: [10.1093/jeg/lbad039](http://dx.doi.org/10.1093/jeg/lbad039).
 1. 2023 Rey, S.J. "Intersectional urban dynamics: A joint Markov chains
@@ -942,6 +945,8 @@ doi: [journl/v33y2011p107-135.html](https://ideas.repec.org/a/tou/journl/v33y201
 
 #### Conference Participation and Presentations
 
+1. 2024 Rey, S.J. "Joint Markov chains for intersectional urban dynamics."
+   Association of American Geographers. Honolulu, HA. April.
 1. 2024 Rey, S.J. "Intersectional urban dynamics: A joint Markov chains
    framework." Western Regional Science Association. Monterey, CA. February.
 1. 2024 Rey, S.J. "Great Minds in Regional Science on Arthur Getis." Western

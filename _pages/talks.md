@@ -137,6 +137,8 @@ author_profile: true
 
 #### Conference Participation and Presentations
 
+1. 2024 Rey, S.J. "Joint Markov chains for intersectional urban dynamics."
+   Association of American Geographers. Honolulu, HA. April.
 1. 2024 Rey, S.J. "Intersectional urban dynamics: A joint Markov chains
    framework." Western Regional Science Association. Monterey, CA. February.
 1. 2024 Rey, S.J. "Great Minds in Regional Science on Arthur Getis." Western

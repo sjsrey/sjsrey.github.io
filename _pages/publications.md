@@ -18,6 +18,9 @@ author_profile: true
 
 #### Refereed Journal Articles and Book Chapters
 
+1. 2024 Knaap, E. and S.J. Rey. "Measuring two decades of urban spatial
+   structure: The evolution of agglomeration economies in American metros."
+   *Computers, Environment and Urban Systems*. Forthcoming.
 1. 2024 Xiong, N., Y.D. Wei, S.J. Rey. "Urban sprawl and racial inequality in
    intergenerational mobility." *Journal of Economic Geography* doi: [10.1093/jeg/lbad039](http://dx.doi.org/10.1093/jeg/lbad039).
 1. 2023 Rey, S.J. "Intersectional urban dynamics: A joint Markov chains
