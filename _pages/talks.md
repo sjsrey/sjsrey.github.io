@@ -11,6 +11,9 @@ author_profile: true
 ### Presentations
 
 #### Invited Lectures
+1. 2024 Rey, S.J. "The school-neighborhood nexus: New spatial analytical
+   perspectives and empirical insight." National Science Foundation, Directorate
+   for Social, Economic and Behavioral Sciences Distinguished Lecture. May.
 1. 2021 Rey, S.J. "Big Code." Geographical Analysis Plenary. Association of American Geographers. Virtual. April.
 1. 2020 Rey, S.J. "The Legacy of Redlining: A Spatial Dynamics Perspective." Keynote, SciPy India. December.
 1. 2020 Rey, S.J. "The Legacy of Redlining: A Spatial Dynamics Perspective." Fellows Lecture, North American Regional Science Association. November.
@@ -137,8 +140,6 @@ author_profile: true
 
 #### Conference Participation and Presentations
 
-1. 2024 Rey, S.J. "Joint Markov chains for intersectional urban dynamics."
-   Association of American Geographers. Honolulu, HA. April.
 1. 2024 Rey, S.J. "Intersectional urban dynamics: A joint Markov chains
    framework." Western Regional Science Association. Monterey, CA. February.
 1. 2024 Rey, S.J. "Great Minds in Regional Science on Arthur Getis." Western

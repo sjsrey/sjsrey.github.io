@@ -89,6 +89,8 @@ author_profile: true
 
 #### Doctoral In Progress
 
+- Dylan Skrah,* SDSU-UCSB
+- Jin Huang,* SDSU-UCSB
 - Suchirtra Pithavath. University of California
 - Talha Rafiq. University of California
 - Samriddhi Singla. University of California

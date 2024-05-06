@@ -21,15 +21,15 @@ redirect_from:
   
 ### Honors and Awards
 
-- 2024 Fellow, American Association for the Advancement of Science
+- 2024 Fellow, Amercian Association for the Advancement of Science.
 - 2017 David Boyce Award for Service to Regional Science. North American Regional Science Council.
-- 2016 Fellow, Regional Science Association International.
+- 2016 Elected Fellow, Regional Science Association International.
 - 2016 Research Award, University Consortium for Geographic Information Science.
 - 2015 Outstanding Service Award, Spatial Analysis and Modeling Specialty Group, Association of American Geographers.
 - 2015 Fellow, Western Regional Science Association.
 - 2014 President, Western Regional Science Association.
-- 2007 Fellow, Spatial Econometrics Association.
-- 1999 Faculty Fellow. Center on Computational Science and
+- 2007- Fellow, Spatial Econometrics Association.
+- 1999-00 Faculty Fellow. Center on Computational Science and
  Engineering. San Diego State University.
 - 1998 Geoffrey J.D. Hewings Distinguished Young Scholars
   Award. North American Regional Science Council.
@@ -110,8 +110,8 @@ Geo-Information.
 #### Refereed Journal Articles and Book Chapters
 
 1. 2024 Knaap, E. and S.J. Rey. "Measuring two decades of urban spatial
-   structure: The evolution of agglomeration economies in American metros."
-   *Computers, Environment and Urban Systems*. Forthcoming.
+   structure: The evolution of agglomeration economies in American
+   metros." *Computers, Environment and Urban Systems* doi: [10.1016/j.compenvurbsys.2024.102116](https://doi.org/10.1016/j.compenvurbsys.2024.102116).
 1. 2024 Xiong, N., Y.D. Wei, S.J. Rey. "Urban sprawl and racial inequality in
    intergenerational mobility." *Journal of Economic Geography* doi: [10.1093/jeg/lbad039](http://dx.doi.org/10.1093/jeg/lbad039).
 1. 2023 Rey, S.J. "Intersectional urban dynamics: A joint Markov chains
@@ -819,6 +819,9 @@ doi: [journl/v33y2011p107-135.html](https://ideas.repec.org/a/tou/journl/v33y201
 ### Presentations
 
 #### Invited Lectures
+1. 2024 Rey, S.J. "The school-neighborhood nexus: New spatial analytical
+   perspectives and empirical insight." National Science Foundation, Directorate
+   for Social, Economic and Behavioral Sciences Distinguished Lecture. May.
 1. 2021 Rey, S.J. "Big Code." Geographical Analysis Plenary. Association of American Geographers. Virtual. April.
 1. 2020 Rey, S.J. "The Legacy of Redlining: A Spatial Dynamics Perspective." Keynote, SciPy India. December.
 1. 2020 Rey, S.J. "The Legacy of Redlining: A Spatial Dynamics Perspective." Fellows Lecture, North American Regional Science Association. November.
@@ -945,8 +948,6 @@ doi: [journl/v33y2011p107-135.html](https://ideas.repec.org/a/tou/journl/v33y201
 
 #### Conference Participation and Presentations
 
-1. 2024 Rey, S.J. "Joint Markov chains for intersectional urban dynamics."
-   Association of American Geographers. Honolulu, HA. April.
 1. 2024 Rey, S.J. "Intersectional urban dynamics: A joint Markov chains
    framework." Western Regional Science Association. Monterey, CA. February.
 1. 2024 Rey, S.J. "Great Minds in Regional Science on Arthur Getis." Western
@@ -1613,6 +1614,8 @@ Sponsor: Research, Scholarly and
 
 #### Doctoral In Progress
 
+- Dylan Skrah,* SDSU-UCSB
+- Jin Huang,* SDSU-UCSB
 - Suchirtra Pithavath. University of California
 - Talha Rafiq. University of California
 - Samriddhi Singla. University of California
