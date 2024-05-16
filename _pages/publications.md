@@ -17,7 +17,10 @@ author_profile: true
 1. 2002 Anselin, L. and S.J. Rey (eds.), New Tools for Spatial Data Analysis: Proceedings of a Workshop. Center for Spatially Integrated Social Science, University of California, Santa Barbara (CD-ROM).
 
 #### Refereed Journal Articles and Book Chapters
-
+1. 2024 Embury, J., A. Nara, S.J. Rey, M. Tsou, S. Ghanipoor
+   Machiani. "Detecting synthetic population bias using a spatially-oriented
+   framework and independent validation data." *International Journal of
+   Geographic Information Science*. Forthcoming.
 1. 2024 Knaap, E. and S.J. Rey. "Measuring two decades of urban spatial
    structure: The evolution of agglomeration economies in American
    metros." *Computers, Environment and Urban Systems* doi: [10.1016/j.compenvurbsys.2024.102116](https://doi.org/10.1016/j.compenvurbsys.2024.102116).
