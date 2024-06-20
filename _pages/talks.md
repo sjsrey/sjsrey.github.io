@@ -12,6 +12,9 @@ author_profile: true
 
 #### Invited Lectures
 1. 2024 Rey, S.J. "The school-neighborhood nexus: New spatial analytical
+   perspectives and empirical insight." Plenary, Spatial Econometrics workshop,
+   Grenoble, France. May.
+1. 2024 Rey, S.J. "The school-neighborhood nexus: New spatial analytical
    perspectives and empirical insight." National Science Foundation, Directorate
    for Social, Economic and Behavioral Sciences Distinguished Lecture. May.
 1. 2021 Rey, S.J. "Big Code." Geographical Analysis Plenary. Association of American Geographers. Virtual. April.

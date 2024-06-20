@@ -823,6 +823,9 @@ doi: [journl/v33y2011p107-135.html](https://ideas.repec.org/a/tou/journl/v33y201
 
 #### Invited Lectures
 1. 2024 Rey, S.J. "The school-neighborhood nexus: New spatial analytical
+   perspectives and empirical insight." Plenary, Spatial Econometrics workshop,
+   Grenoble, France. May.
+1. 2024 Rey, S.J. "The school-neighborhood nexus: New spatial analytical
    perspectives and empirical insight." National Science Foundation, Directorate
    for Social, Economic and Behavioral Sciences Distinguished Lecture. May.
 1. 2021 Rey, S.J. "Big Code." Geographical Analysis Plenary. Association of American Geographers. Virtual. April.
@@ -1392,8 +1395,8 @@ GeoPython. Basil, Switzerland. June.
    meeting, San Diego, CA, April.
 
 ### Research Grants and Contracts
-- 2021-24 Neighborhoods and Education. The Bill and Melinda Gates Foundation.
-  Principal Investigator ($534,000).
+- 2024-26  Spatial Homogeneity Learning Models with Applications to Socioeconomic Problems. Co-Principal Investigator. Sponsor: National Science Foundation ($500,000).
+- 2021-24 Neighborhoods and Education. The Bill and Melinda Gates Foundation.  Principal Investigator ($534,000).
 - 2021-24 Encoding Geography - Scaling up an RPP to achieve inclusive geocomputational education. Co-Principal Investigator. Sponsor: National Science Foundation ($400,856).
 - 2020-25 Colorado Adoption/Twin Study of Lifespan behavioral development & cognitive aging (CATSLife2). Co-Investigator. Sponsor: National Institute On Aging  ($11,308,000). 
 - 2018-22 RIDIR: Scalable Geospatial Analytics for Social Science Research. Principal Investigator. Sponsor: National Science Foundation ($1,000,000).
@@ -1537,19 +1540,21 @@ Sponsor: Research, Scholarly and
 ### Courses Taught
 
 #### Short and Invited Courses
-- Spatial Data Science with PySAL (WRSA 2024, February)
-- Spatial Data Science with PySAL (NARSC 2023, November)
-- Spatial Inequality Analytics with PySAL (IALE 2022, April)
-- Spatial Data Analysis with PySAL (SciPy India 2020, December)
-- Spatial Data Science with PySAL (NARSC 2020, San Diego, November)
-- Spatial Data Science with PySAL (SpatialAPI 2020, Seattle, October)
-- Spatial Data Science with PySAL (SciPy 2020, Austin, Texas, July)
-- Spatial Data Science with PySAL (RSAI 2019, Pittsburgh, PA, November)
-- Geospatial Data Science with PySAL (Geocomputation 2019, Queenstown, New Zealand, September) 
-- Intermediate Geographical Data Science (SciPy 2019, Austin, Texas, July)
-- Geospatial Data Science with PySAL (FOSS4G 2019, San Diego, CA, April) 
-- Spatial Data Analysis with PySal and GeoDaSpace (RSAI 2018, San Antonio, TX, November)
-- Introduction to Geospatial Data Analysis with Python (SciPy 2018, Austin, Texas)
+- Geographic  Data Science with Python (GeoPython 2024, Basel, Switzerland)
+- Spatial Data Science and Econometrics with Python (Spatial Economics Workshop 2024, Grenoble, France)
+- Spatial Data Science with PySAL (WRSA 2024, Monterey, CA)
+- Spatial Data Science with PySAL (NARSC 2023, San Diego)
+- Spatial Inequality Analytics with PySAL (IALE 2022, Tempe, AZ)
+- Spatial Data Analysis with PySAL (SciPy India 2020)
+- Spatial Data Science with PySAL (NARSC 2020, Virtual)
+- Spatial Data Science with PySAL (SpatialAPI 2020, Seattle, WA)
+- Spatial Data Science with PySAL (SciPy 2020, Austin, TX)
+- Spatial Data Science with PySAL (RSAI 2019, Pittsburgh, PA)
+- Geospatial Data Science with PySAL (Geocomputation 2019, Queenstown, New Zealand) 
+- Intermediate Geographical Data Science (SciPy 2019, Austin, TX)
+- Geospatial Data Science with PySAL (FOSS4G 2019, San Diego, CA) 
+- Spatial Data Analysis with PySal and GeoDaSpace (RSAI 2018, San Antonio, TX)
+- Introduction to Geospatial Data Analysis with Python (SciPy 2018, Austin, TX)
 - Geospatial Data Analysis with Python (GradQuant UCR May 2018)
 - Spatial Data Science with PyData (GeoPython 2018, Basel, Switzerland)
 - Spatial Data Analysis with PySal and GeoDaSpace (RSAI 2017, Vancouver, BC)
