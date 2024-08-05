@@ -17,24 +17,32 @@ author_profile: true
 1. 2002 Anselin, L. and S.J. Rey (eds.), New Tools for Spatial Data Analysis: Proceedings of a Workshop. Center for Spatially Integrated Social Science, University of California, Santa Barbara (CD-ROM).
 
 #### Refereed Journal Articles and Book Chapters
+
+1. 2024 Murray, A.T., L. Anselin,  S.J. Rey. Arthur Getis: a legend in
+   geographical systems. *Journal of Geographical Systems* 26, 181–190.  
+   doi: [10.1007/s10109-024-00443-2](https://doi.org/10.1007/s10109-024-00443-2)
 1. 2024 Embury, J., A. Nara, S.J. Rey, M. Tsou, S. Ghanipoor
    Machiani. "Detecting synthetic population bias using a spatially-oriented
    framework and independent validation data." *International Journal of
    Geographic Information Science*. Forthcoming.
 1. 2024 Knaap, E. and S.J. Rey. "Measuring two decades of urban spatial
    structure: The evolution of agglomeration economies in American
-   metros." *Computers, Environment and Urban Systems* doi: [10.1016/j.compenvurbsys.2024.102116](https://doi.org/10.1016/j.compenvurbsys.2024.102116).
+   metros." *Computers, Environment and Urban Systems*.  
+   doi: [10.1016/j.compenvurbsys.2024.102116](https://doi.org/10.1016/j.compenvurbsys.2024.102116).
 1. 2024 Xiong, N., Y.D. Wei, S.J. Rey. "Urban sprawl and racial inequality in
-   intergenerational mobility." *Journal of Economic Geography* doi: [10.1093/jeg/lbad039](http://dx.doi.org/10.1093/jeg/lbad039).
+   intergenerational mobility." *Journal of Economic Geography*.  
+   doi: [10.1093/jeg/lbad039](http://dx.doi.org/10.1093/jeg/lbad039).
 1. 2023 Rey, S.J. "Intersectional urban dynamics: A joint Markov chains
-   approach." *Letters in Spatial and Resource Sciences*. doi: [10.1007/s12076-023-00356-6](https://doi.org/10.1007/s12076-023-00356-6).
+   approach." *Letters in Spatial and Resource Sciences*.  
+   doi: [10.1007/s12076-023-00356-6](https://doi.org/10.1007/s12076-023-00356-6).
 1. 2023 Knaap, E. and S.J. Rey. "Segregated by design? Street network
    topological structure and the measurement of urban segregation."
-   *Environment and Planning B; Urban Analysis and City Science*.
+   *Environment and Planning B; Urban Analysis and City Science*.  
    doi: [10.1177/23998083231197956](https://doi.org/10.1177/23998083231197956).
 1. 2023 Alrashid, H., A. Magdy, S. Rey. "Statistical inference for spatial
    regionalization." *SIGSPATIAL '23': Proceedings of the 31st ACM Conference on
-   Advances in Geographic Information Systems* 65: 1-12. doi: [10.1145/3589132.3625608](https://doi.org/10.1145/3589132.3625608).
+   Advances in Geographic Information Systems* 65: 1-12.  
+   doi: [10.1145/3589132.3625608](https://doi.org/10.1145/3589132.3625608).
 1. 2023 Rey, S.J. and E. Casimiro Vieyra. "Spatial inequality and place mobility
    in Mexico: 2000–2015." *Journal of Applied Geography*.  
    doi: [10.1016/j.apgeog.2023.102871](https://doi.org/10.1016/j.apgeog.2023.102871).
