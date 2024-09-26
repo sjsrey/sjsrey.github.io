@@ -21,7 +21,7 @@ redirect_from:
   
 ### Honors and Awards
 
-- 2024 Fellow, Amercian Association for the Advancement of Science.
+- 2023 Fellow, Amercian Association for the Advancement of Science.
 - 2017 David Boyce Award for Service to Regional Science. North American Regional Science Council.
 - 2016 Elected Fellow, Regional Science Association International.
 - 2016 Research Award, University Consortium for Geographic Information Science.
@@ -109,8 +109,18 @@ Geo-Information.
 
 #### Refereed Journal Articles and Book Chapters
 
-1. 2024 Murray, A.T., L. Anselin,  S.J. Rey. Arthur Getis: a legend in
-   geographical systems. *Journal of Geographical Systems* 26, 181–190.  
+1. 2024 Rey, S.J., E. Knaap, R. Wei, D. Skrah. "Measuring spatial congruence in
+   the school-neighborhood nexus." *Applied Spatial Analysis and Policy*.  
+   doi: [10.1007/s12061-024-09603-9](https://link.springer.com/article/10.1007/s12061-024-09603-9)
+1. 2024 Nelson, T., A.E. Frazier, P. Kedron, S. Dodge, B. Zhao, M. Goodchild,
+   A. Murray, S. Battersby, L. Bennett, J.I Blanford, C. Cabrera-Amau,
+   C. Claramunt, R. Franklin, J. Holler, C. Koylu, A. Lee, S. Manson,
+   G. McKenzie, H. Miller, T. Oshan, S. Rey, F. Rowe, S, Salap-Ayca, E. Shook,
+   S. Spielman, W. Xu, S. Wilson. "A Research Agenda for GIScience in a Time of
+   Disruptions." *International Journal of Geographic Information
+   Science*. Forthcoming.
+1. 2024 Murray, A.T., L. Anselin,  S.J. Rey. ""Arthur Getis: a legend in
+   geographical systems." *Journal of Geographical Systems* 26, 181–190.  
    doi: [10.1007/s10109-024-00443-2](https://doi.org/10.1007/s10109-024-00443-2)
 1. 2024 Embury, J., A. Nara, S.J. Rey, M. Tsou, S. Ghanipoor
    Machiani. "Detecting synthetic population bias using a spatially-oriented
@@ -123,6 +133,11 @@ Geo-Information.
 1. 2024 Xiong, N., Y.D. Wei, S.J. Rey. "Urban sprawl and racial inequality in
    intergenerational mobility." *Journal of Economic Geography*.  
    doi: [10.1093/jeg/lbad039](http://dx.doi.org/10.1093/jeg/lbad039).
+1. 2024 Kang, Yunfan, Yongyi Liu, Hussah Alrashid, Akash Bilgi, Siddhant Purohit,
+   Ahmed Mahmood, Sergio Rey, and Amr Magdy. “Pyneapple-R: Scalable and
+   Expressive Spatial Regionalization.” In 2024 IEEE 40th International
+   Conference on Data Engineering (ICDE), 5497–5500. Utrecht, Netherlands:
+   IEEE. https://doi.org/10.1109/ICDE60146.2024.00437.
 1. 2023 Rey, S.J. "Intersectional urban dynamics: A joint Markov chains
    approach." *Letters in Spatial and Resource Sciences*.  
    doi: [10.1007/s12076-023-00356-6](https://doi.org/10.1007/s12076-023-00356-6).
