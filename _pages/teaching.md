@@ -99,16 +99,16 @@ author_profile: true
 - Nazli Uludere Aragon. Arizona State University
 
 #### Doctoral Completed
-- 2020 Paige Trubenstein. University of California
-- 2020 Saheli Gosh. University of California
-- 2019 Hu Shao.* Arizona State University
-- 2018 Wei Kang.* Arizona State University
-- 2018 Marynia Kolak. Arizona State University
-- 2017 Taylor Oshan. Arizona State University
-- 2017 Levi Wolf.* Arizona State University
-- 2017 Janet Reyna. Arizona State University
-- 2017 Chao Fan. Arizona State University.
-- 2017 Jianhua Huang. Arizona State Unveristy
+- 2020 Paige Trubenstein. The Importance of Place in Adults Approaching Midlife. University of California.
+- 2020 Saheli Gosh. Interactive Visual Exploration of Big Spatial Data. University of California.
+- 2019 Hu Shao.* A Data-driven, High-performance and Intelligent Cyberinfrastructure to Advance Spatial Sciences. Arizona State University.
+- 2018 Wei Kang.* Issues in the Distribution Dynamics Approach to the Analysis of Regional Economic Growth. Arizona State University.
+- 2018 Marynia Kolak. Policy and Place: A Spatial Data Science Framework for Research and Decision Making. Arizona State University.
+- 2017 Taylor Oshan. A New Era of Spatial Interaction: Potential and Pitfalls. Arizona State University.
+- 2017 Levi Wolf.* Spatial Partisan Gerrymandering Forensics: Local Measures and Spatial Specifications. Arizona State University.
+- 2017 Janet Reyna. Developing New Methods for Analyzing Urban Energy Use in Buildings: Historic Turnover, Spatial Patterns, and Future Forecasting. Arizona State University.
+- 2017 Chao Fan. A Spatial Statistical Framework For Evaluating Landscape Pattern And Its Impacts On The Urban Thermal Environment. Arizona State University.
+- 2017 Jianhua Huang. Impacts Of Climate Change On Us Commercial And Residential Building Energy Demand. Arizona State University.
 - 2015 Jason Laura.* Towards a Taxonomy of Parallel Spatial Algorithms. Arizona State University.
 - 2015 Insu Hong. Efficient methods for shortest paths avoiding obstacles in
   continuous space. Arizona State University.
@@ -144,11 +144,13 @@ author_profile: true
   Economic Growth. SDSU-UCSB Joint Doctoral Program.
 
 #### Masters In Progress
-- Jessica Embury. San Diego State University
+- Kwasi Asomani.* San Diego State University
+- Carli Henderson.* San Diego State University
+- Trevor Tibbetts.* San Diego State University
 
 
 #### Masters Completed
-
+- 2021 Jessica Embury. San Diego State University
 - 2017 Sizhe Wang.* Arizona State University
 - 2015 Michael Bochnovic. Arizona State University.
 - 2015 Anthony DeLuca. Arizona State University.

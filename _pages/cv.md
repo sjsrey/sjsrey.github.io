@@ -108,24 +108,34 @@ Geo-Information.
 1. 2002 Anselin, L. and S.J. Rey (eds.), New Tools for Spatial Data Analysis: Proceedings of a Workshop. Center for Spatially Integrated Social Science, University of California, Santa Barbara (CD-ROM).
 
 #### Refereed Journal Articles and Book Chapters
-
+1. 2024 Rey, S.J., E. Knaap, Z. Neal, C. Andris. "Unraveling incommensurate spatial partitions: A bipartite graph approach to school-neighborhood  interactions and their impacts." *Network and Spatial  Economics*.  
+   doi: [10.1007/s11067-024-09655-x](https://doi.org/10.1007/s11067-024-09655-x).
+1. 2024 Knaap, K. S. Rey. "geosnap: The Geospatial Neighborhood Analysis
+   Package." *Proceedings of the 23rd Python in Science Conference (SciPy 2024)*.  
+   doi: [10.25080/FVWM4182](https://proceedings.scipy.org/articles/FVWM4182).
 1. 2024 Rey, S.J., E. Knaap, R. Wei, D. Skrah. "Measuring spatial congruence in
    the school-neighborhood nexus." *Applied Spatial Analysis and Policy*.  
    doi: [10.1007/s12061-024-09603-9](https://link.springer.com/article/10.1007/s12061-024-09603-9)
+1. 2024 Olsson, L., E. Anderson, J. Ardo, T. Crews, C. David, L. DeHaan,
+   A. Hilling, A. Streit Krug, M. Palmgren, S. Rey. "What is the prospect of a
+   perennial grain revolution of agriculture?" *Global Sustainability*.  
+   doi: [doi:10.1017/sus.2024.27](https://www.cambridge.org/core/journals/global-sustainability/article/what-is-the-prospect-of-a-perennial-grain-revolution-of-agriculture/B90925E656E6782E9370AA1CC6086BB9) 
 1. 2024 Nelson, T., A.E. Frazier, P. Kedron, S. Dodge, B. Zhao, M. Goodchild,
    A. Murray, S. Battersby, L. Bennett, J.I Blanford, C. Cabrera-Amau,
    C. Claramunt, R. Franklin, J. Holler, C. Koylu, A. Lee, S. Manson,
    G. McKenzie, H. Miller, T. Oshan, S. Rey, F. Rowe, S, Salap-Ayca, E. Shook,
    S. Spielman, W. Xu, S. Wilson. "A Research Agenda for GIScience in a Time of
    Disruptions." *International Journal of Geographic Information
-   Science*. Forthcoming.
-1. 2024 Murray, A.T., L. Anselin,  S.J. Rey. ""Arthur Getis: a legend in
+   Science*.  
+   doi: [10.1080/13658816.2024.2405191](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2405191)
+1. 2024 Murray, A.T., L. Anselin,  S.J. Rey. "Arthur Getis: a legend in
    geographical systems." *Journal of Geographical Systems* 26, 181–190.  
    doi: [10.1007/s10109-024-00443-2](https://doi.org/10.1007/s10109-024-00443-2)
 1. 2024 Embury, J., A. Nara, S.J. Rey, M. Tsou, S. Ghanipoor
    Machiani. "Detecting synthetic population bias using a spatially-oriented
    framework and independent validation data." *International Journal of
-   Geographic Information Science*. Forthcoming.
+   Geographic Information Science*.  
+   doi: [10.1080/13658816.2024.2358399](https://doi.org/10.1080/13658816.2024.2358399).
 1. 2024 Knaap, E. and S.J. Rey. "Measuring two decades of urban spatial
    structure: The evolution of agglomeration economies in American
    metros." *Computers, Environment and Urban Systems*.  
@@ -1655,16 +1665,16 @@ Sponsor: Research, Scholarly and
 - Nazli Uludere Aragon. Arizona State University
 
 #### Doctoral Completed
-- 2020 Paige Trubenstein. University of California
-- 2020 Saheli Gosh. University of California
-- 2019 Hu Shao.* Arizona State University
-- 2018 Wei Kang.* Arizona State University
-- 2018 Marynia Kolak. Arizona State University
-- 2017 Taylor Oshan. Arizona State University
-- 2017 Levi Wolf.* Arizona State University
-- 2017 Janet Reyna. Arizona State University
-- 2017 Chao Fan. Arizona State University.
-- 2017 Jianhua Huang. Arizona State Unveristy
+- 2020 Paige Trubenstein. The Importance of Place in Adults Approaching Midlife. University of California.
+- 2020 Saheli Gosh. Interactive Visual Exploration of Big Spatial Data. University of California.
+- 2019 Hu Shao.* A Data-driven, High-performance and Intelligent Cyberinfrastructure to Advance Spatial Sciences. Arizona State University.
+- 2018 Wei Kang.* Issues in the Distribution Dynamics Approach to the Analysis of Regional Economic Growth. Arizona State University.
+- 2018 Marynia Kolak. Policy and Place: A Spatial Data Science Framework for Research and Decision Making. Arizona State University.
+- 2017 Taylor Oshan. A New Era of Spatial Interaction: Potential and Pitfalls. Arizona State University.
+- 2017 Levi Wolf.* Spatial Partisan Gerrymandering Forensics: Local Measures and Spatial Specifications. Arizona State University.
+- 2017 Janet Reyna. Developing New Methods for Analyzing Urban Energy Use in Buildings: Historic Turnover, Spatial Patterns, and Future Forecasting. Arizona State University.
+- 2017 Chao Fan. A Spatial Statistical Framework For Evaluating Landscape Pattern And Its Impacts On The Urban Thermal Environment. Arizona State University.
+- 2017 Jianhua Huang. Impacts Of Climate Change On Us Commercial And Residential Building Energy Demand. Arizona State University.
 - 2015 Jason Laura.* Towards a Taxonomy of Parallel Spatial Algorithms. Arizona State University.
 - 2015 Insu Hong. Efficient methods for shortest paths avoiding obstacles in
   continuous space. Arizona State University.
@@ -1700,11 +1710,13 @@ Sponsor: Research, Scholarly and
   Economic Growth. SDSU-UCSB Joint Doctoral Program.
 
 #### Masters In Progress
-- Jessica Embury. San Diego State University
+- Kwasi Asomani.* San Diego State University
+- Carli Henderson.* San Diego State University
+- Trevor Tibbetts.* San Diego State University
 
 
 #### Masters Completed
-
+- 2021 Jessica Embury. San Diego State University
 - 2017 Sizhe Wang.* Arizona State University
 - 2015 Michael Bochnovic. Arizona State University.
 - 2015 Anthony DeLuca. Arizona State University.
