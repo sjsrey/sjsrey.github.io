@@ -1,0 +1,1255 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.56">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>changelog – Sergio J. Rey</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed fullcontent">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Sergio J. Rey</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./publications.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./cv.html"> 
+<span class="menu-text">CV</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+
+
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.2">3.4.2</a></h2>
+<section id="enhancements" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements">Enhancements</h3>
+<ul>
+<li>Improve UX of static comment forms. <a href="https://github.com/mmistakes/minimal-mistakes/issues/448">#448</a></li>
+</ul>
+</section>
+</section>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.1">3.4.1</a></h2>
+<section id="enhancements-1" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-1">Enhancements</h3>
+<ul>
+<li>Add <code>staticman.filename</code> configuration with UNIX timestamp for sorting data files. example ~&gt; <code>comment-1470943149</code>.</li>
+</ul>
+</section>
+<section id="bug-fixes" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes">Bug Fixes</h3>
+<ul>
+<li>Don’t add <code>&lt;a&gt;</code> to author name if URL is blank.</li>
+</ul>
+</section>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.0">3.4.0</a></h2>
+<section id="enhancements-2" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-2">Enhancements</h3>
+<ul>
+<li>Support static-based commenting via <a href="https://staticman.net/">Staticman</a> for sites hosted with GitHub Pages. <a href="https://github.com/mmistakes/minimal-mistakes/issues/424">#424</a></li>
+</ul>
+</section>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.3.7">3.3.7</a></h2>
+<section id="bug-fixes-1" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-1">Bug Fixes</h3>
+<ul>
+<li>Re-enabled Jekyll plugins in <code>_config.yml</code> in case they aren’t autoloaded in <code>Gemfile</code>. <a href="https://github.com/mmistakes/minimal-mistakes/issues/417">#417</a></li>
+</ul>
+</section>
+<section id="enhancements-3" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-3">Enhancements</h3>
+<ul>
+<li>Fallback to <code>site.github.url</code> for use in <code>{ base_path }</code> when <code>site.url</code> is <code>nil</code>.</li>
+<li>Replace Sass and Autoprefixer <code>npm</code> build scripts with <a href="https://jekyllrb.com/docs/assets/">Jekyll’s built-in asset support</a>. <a href="https://github.com/mmistakes/minimal-mistakes/issues/333">#333</a></li>
+</ul>
+</section>
+<section id="maintenance" class="level3">
+<h3 class="anchored" data-anchor-id="maintenance">Maintenance</h3>
+<ul>
+<li>Document <code>site.repository</code> and its role with <a href="https://github.com/jekyll/github-metadata"><code>github-metadata</code></a> gem.</li>
+<li>Add sample <a href="https://mmistakes.github.io/minimal-mistakes/archive-layout-with-content/">archive page with content</a> for testing styles on demo site.</li>
+</ul>
+</section>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.3.6">3.3.6</a></h2>
+<section id="bug-fixes-2" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-2">Bug Fixes</h3>
+<ul>
+<li>Fix blank <code>site.teaser</code> bug. <a href="https://github.com/mmistakes/minimal-mistakes/issues/412">#412</a></li>
+</ul>
+</section>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.3.5">3.3.5</a></h2>
+<section id="enhancements-4" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-4">Enhancements</h3>
+<ul>
+<li>Add English default text <code>site.locale</code> strings. <a href="https://github.com/mmistakes/minimal-mistakes/issues/407">#407</a></li>
+<li>Add Portuguese localized UI text. <a href="https://github.com/mmistakes/minimal-mistakes/pull/411">#411</a></li>
+<li>Add Italian localized UI text. <a href="https://github.com/mmistakes/minimal-mistakes/pull/409">#409</a></li>
+</ul>
+</section>
+<section id="maintenance-1" class="level3">
+<h3 class="anchored" data-anchor-id="maintenance-1">Maintenance</h3>
+<ul>
+<li>Remove unused Google AdSense variables in <code>_config.yml</code>. <a href="https://github.com/mmistakes/minimal-mistakes/issues/404">#404</a></li>
+<li>Update <code>Gemfile</code> instructions for using <code>github-pages</code> vs.&nbsp;native <code>jekyll</code> gems.</li>
+<li>Disable <code>gems:</code> in <code>_config.yml</code> and enable plugins with Bundler instead.</li>
+<li>Add <code>repository</code> to <code>_config.yml</code> to suppress GitHub Pages error <code>Liquid Exception: No repo name found.</code></li>
+</ul>
+</section>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.3.4">3.3.4</a></h2>
+<section id="enhancements-5" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-5">Enhancements</h3>
+<ul>
+<li>Add support for configurable feed URL to use a service like FeedBurner instead of linking directly to <code>feed.xml</code> in <code>&lt;head&gt;</code> and the site footer. <a href="https://github.com/mmistakes/minimal-mistakes/issues/378">#378</a>, <a href="https://github.com/mmistakes/minimal-mistakes/pull/379">#379</a>, <a href="https://github.com/mmistakes/minimal-mistakes/pull/406">#406</a></li>
+<li>Add Turkish localized UI text. <a href="https://github.com/mmistakes/minimal-mistakes/pull/403">#403</a></li>
+</ul>
+</section>
+<section id="maintenance-2" class="level3">
+<h3 class="anchored" data-anchor-id="maintenance-2">Maintenance</h3>
+<ul>
+<li>Update gems: <code>activesupport</code> (4.2.7), <code>ffi</code> (1.9.14), <code>github-pages</code> (88), <code>jekyll-redirect-from</code> (0.11.0), <code>jekyll-watch</code> (1.5.0).</li>
+</ul>
+</section>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.3.3">3.3.3</a></h2>
+<section id="enhancements-6" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-6">Enhancements</h3>
+<ul>
+<li>Make footer stick to the bottom of the page.</li>
+</ul>
+</section>
+<section id="bug-fixes-3" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-3">Bug Fixes</h3>
+<ul>
+<li>Fix <code>gallery</code> size bug <a href="https://github.com/mmistakes/minimal-mistakes/issues/402">#402</a></li>
+</ul>
+</section>
+<section id="maintenance-3" class="level3">
+<h3 class="anchored" data-anchor-id="maintenance-3">Maintenance</h3>
+<ul>
+<li>Set default <code>lang</code> to <code>en</code>.</li>
+</ul>
+</section>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.3.2">3.3.2</a></h2>
+<section id="bug-fixes-4" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-4">Bug Fixes</h3>
+<ul>
+<li>Fix JavaScript that triggers “sticky” sidebar to avoid layout issues on screen sizes &lt; <code>1024px</code>. <a href="https://github.com/mmistakes/minimal-mistakes/issues/396">#396</a></li>
+</ul>
+</section>
+</section>
+<section id="section-9" class="level2">
+<h2 class="anchored" data-anchor-id="section-9"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.3.1">3.3.1</a></h2>
+<section id="enhancements-7" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-7">Enhancements</h3>
+<ul>
+<li>Enable image popup on &lt; 500px wide screens. <a href="https://github.com/mmistakes/minimal-mistakes/issues/385">#385</a></li>
+<li>Indicate the relationship between component URLs in a paginated series by applying <code>rel="prev"</code> and <code>rel="next"</code> to pages that use <code>site.paginator</code>. <a href="https://github.com/mmistakes/minimal-mistakes/issues/253">#253</a></li>
+<li>Improve link posts in archive listings. <a href="https://github.com/mmistakes/minimal-mistakes/issues/276">#276</a></li>
+</ul>
+</section>
+<section id="maintenance-4" class="level3">
+<h3 class="anchored" data-anchor-id="maintenance-4">Maintenance</h3>
+<ul>
+<li>Update gems: <code>github-pages</code> (86), <code>ffi</code> 1.9.13, <code>jekyll-mentions</code> 1.1.3, and <code>rouge</code> 1.11.1</li>
+<li>Fix note about custom sidebar content appearing below author profile. <a href="https://github.com/mmistakes/minimal-mistakes/issues/388">#388</a></li>
+</ul>
+</section>
+</section>
+<section id="section-10" class="level2">
+<h2 class="anchored" data-anchor-id="section-10"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.13">3.2.13</a></h2>
+<section id="enhancements-8" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-8">Enhancements</h3>
+<ul>
+<li>Add English default UI text for Canada, Great Britain, and Australia. <a href="https://github.com/mmistakes/minimal-mistakes/issues/377">#377</a></li>
+<li>Switch default locale from <code>en-US</code> to <code>en</code>.</li>
+</ul>
+</section>
+</section>
+<section id="section-11" class="level2">
+<h2 class="anchored" data-anchor-id="section-11"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.12">3.2.12</a></h2>
+<section id="enhancements-9" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-9">Enhancements</h3>
+<ul>
+<li>Remove window width “magic number” from sticky sidebar check in <code>main.js</code> for improved flexibility. <a href="https://github.com/mmistakes/minimal-mistakes/pull/375">#375</a></li>
+</ul>
+</section>
+<section id="bug-fixes-5" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-5">Bug Fixes</h3>
+<ul>
+<li>Fix author override conditional where a missing <code>authors.yml</code> would show broken sidebar content. Defaults to <code>site.author</code>. <a href="https://github.com/mmistakes/minimal-mistakes/pull/376">#376</a></li>
+</ul>
+</section>
+</section>
+<section id="section-12" class="level2">
+<h2 class="anchored" data-anchor-id="section-12"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.11">3.2.11</a></h2>
+<section id="bug-fixes-6" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-6">Bug Fixes</h3>
+<ul>
+<li>Fix disappearing author sidebar links <a href="https://github.com/mmistakes/minimal-mistakes/issues/372">#372</a></li>
+</ul>
+</section>
+<section id="maintenance-5" class="level3">
+<h3 class="anchored" data-anchor-id="maintenance-5">Maintenance</h3>
+<ul>
+<li>Update gems: <code>github-pages</code> (84), <code>jekyll-github-metadata</code> 2.0.2, and <code>kramdown</code> 1.11.1</li>
+<li>Update vendor JavaScript: jQuery 1.12.4, Stickyfill.js 1.1.4</li>
+<li>Update Font Awesome 4.6.3</li>
+</ul>
+</section>
+</section>
+<section id="section-13" class="level2">
+<h2 class="anchored" data-anchor-id="section-13"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.10">3.2.10</a></h2>
+<section id="maintenance-6" class="level3">
+<h3 class="anchored" data-anchor-id="maintenance-6">Maintenance</h3>
+<ul>
+<li>Add <code>CONTRIBUTING.md</code></li>
+</ul>
+</section>
+</section>
+<section id="section-14" class="level2">
+<h2 class="anchored" data-anchor-id="section-14"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.9">3.2.9</a></h2>
+<section id="enhancements-10" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-10">Enhancements</h3>
+<ul>
+<li>Add support for <a href="https://mmistakes.github.io/minimal-mistakes/docs/layouts/#header-overlay">header overlay images</a> for Open Graph images. <a href="https://github.com/mmistakes/minimal-mistakes/pull/358">#358</a></li>
+</ul>
+</section>
+<section id="bug-fixes-7" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-7">Bug Fixes</h3>
+<ul>
+<li>Fix <code>Person</code> typo Schema.org type <a href="https://github.com/mmistakes/minimal-mistakes/pull/358">#358</a></li>
+</ul>
+</section>
+<section id="maintenance-7" class="level3">
+<h3 class="anchored" data-anchor-id="maintenance-7">Maintenance</h3>
+<ul>
+<li>Update <code>github-pages</code> gem and dependencies.</li>
+<li>Remove <code>minutes_read</code> to avoid awkward reading time wording <a href="https://github.com/mmistakes/minimal-mistakes/issues/356">#356</a></li>
+</ul>
+</section>
+</section>
+<section id="section-15" class="level2">
+<h2 class="anchored" data-anchor-id="section-15"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.8">3.2.8</a></h2>
+<section id="bug-fixes-8" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-8">Bug Fixes</h3>
+<ul>
+<li>Remove <code>cursor: pointer</code> that appears on white-space surrounding author side list items and links. <a href="https://github.com/mmistakes/minimal-mistakes/pull/354">#354</a></li>
+</ul>
+</section>
+<section id="maintenance-8" class="level3">
+<h3 class="anchored" data-anchor-id="maintenance-8">Maintenance</h3>
+<ul>
+<li>Add contributing information to <code>README.md</code>. <a href="https://github.com/mmistakes/minimal-mistakes/issues/357">#357</a></li>
+</ul>
+</section>
+</section>
+<section id="section-16" class="level2">
+<h2 class="anchored" data-anchor-id="section-16"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.7">3.2.7</a></h2>
+<section id="enhancements-11" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-11">Enhancements</h3>
+<ul>
+<li>Add French localized UI text. <a href="https://github.com/mmistakes/minimal-mistakes/pull/346">#346</a></li>
+</ul>
+</section>
+<section id="bug-fixes-9" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-9">Bug Fixes</h3>
+<ul>
+<li>Fix branch logic for Yandex and Alexa in <code>seo.html</code>. <a href="https://github.com/mmistakes/minimal-mistakes/pull/348">#348</a></li>
+</ul>
+</section>
+</section>
+<section id="section-17" class="level2">
+<h2 class="anchored" data-anchor-id="section-17"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.6">3.2.6</a></h2>
+<section id="bug-fixes-10" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-10">Bug Fixes</h3>
+<ul>
+<li>Fix error <code>Liquid Exception: divided by 0 in _includes/archive-single.html, included in _layouts/single.html</code> caused by null <code>words_per_minute</code> in <code>_config.yml</code>. <a href="https://github.com/mmistakes/minimal-mistakes/pull/345">#345</a></li>
+</ul>
+</section>
+</section>
+<section id="section-18" class="level2">
+<h2 class="anchored" data-anchor-id="section-18"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.5">3.2.5</a></h2>
+<section id="bug-fixes-11" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-11">Bug Fixes</h3>
+<ul>
+<li>Fix link color in hero overlay to be white.</li>
+<li>Remove underlines from archive item titles.</li>
+</ul>
+</section>
+</section>
+<section id="section-19" class="level2">
+<h2 class="anchored" data-anchor-id="section-19"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.4">3.2.4</a></h2>
+<section id="enhancements-12" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-12">Enhancements</h3>
+<ul>
+<li>Improve text alignment of masthead, hero overlay, page footer to be flush left and remove awkward white-space gaps. <a href="https://github.com/mmistakes/minimal-mistakes/issues/342">#342</a></li>
+<li>Add Spanish localized UI text. <a href="https://github.com/mmistakes/minimal-mistakes/pull/338">#338</a></li>
+</ul>
+</section>
+<section id="bug-fixes-12" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-12">Bug Fixes</h3>
+<ul>
+<li>Fix alignment of icons in author sidebar <a href="https://github.com/mmistakes/minimal-mistakes/issues/341">#341</a></li>
+</ul>
+</section>
+<section id="maintenance-9" class="level3">
+<h3 class="anchored" data-anchor-id="maintenance-9">Maintenance</h3>
+<ul>
+<li>Add background color to page footer to set it apart from main content. <a href="https://github.com/mmistakes/minimal-mistakes/issues/342">#342</a></li>
+<li>Add terms and privacy policy to theme’s demo site. <a href="https://github.com/mmistakes/minimal-mistakes/issues/343">#343</a></li>
+<li>Update screenshots found in theme documentation.</li>
+</ul>
+</section>
+</section>
+<section id="section-20" class="level2">
+<h2 class="anchored" data-anchor-id="section-20"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.3">3.2.3</a></h2>
+<section id="enhancements-13" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-13">Enhancements</h3>
+<ul>
+<li>Add <a href="https://www.discourse.org/">Discourse</a> as a commenting provider. <a href="https://github.com/mmistakes/minimal-mistakes/pull/335">#335</a></li>
+</ul>
+</section>
+</section>
+<section id="section-21" class="level2">
+<h2 class="anchored" data-anchor-id="section-21"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.2">3.2.2</a></h2>
+<section id="enhancements-14" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-14">Enhancements</h3>
+<ul>
+<li>Add support for image captions in Magnific Popup overlays via the <a href="https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery"><code>gallery</code></a> helper. <a href="https://github.com/mmistakes/minimal-mistakes/issues/334">#334</a></li>
+</ul>
+</section>
+</section>
+<section id="section-22" class="level2">
+<h2 class="anchored" data-anchor-id="section-22"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.1">3.2.1</a></h2>
+<section id="bug-fixes-13" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-13">Bug Fixes</h3>
+<ul>
+<li>Remove need for “double tapping” masthead menu links on iOS devices. <a href="https://github.com/mmistakes/minimal-mistakes/issues/315">#315</a></li>
+</ul>
+</section>
+<section id="maintenance-10" class="level3">
+<h3 class="anchored" data-anchor-id="maintenance-10">Maintenance</h3>
+<ul>
+<li>Add <code>ISSUE_TEMPLATE.md</code> for improve issue submission process.</li>
+</ul>
+</section>
+</section>
+<section id="section-23" class="level2">
+<h2 class="anchored" data-anchor-id="section-23"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.0">3.2.0</a></h2>
+<section id="bug-fixes-14" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-14">Bug Fixes</h3>
+<ul>
+<li>Fix missing category/tag links in post footer due to possible conflict with <code>site.tags</code> and <code>site.categories</code>. <a href="https://github.com/mmistakes/minimal-mistakes/issues/329#issuecomment-222375568">#329</a></li>
+</ul>
+</section>
+</section>
+<section id="section-24" class="level2">
+<h2 class="anchored" data-anchor-id="section-24"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.1.8">3.1.8</a></h2>
+<section id="bug-fixes-15" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-15">Bug Fixes</h3>
+<ul>
+<li>Fix <code>Liquid Exception: undefined method 'gsub' for nil:NilClass in _layouts/single.html</code> error when <code>page.title</code> is null. <code>&lt;h1&gt;</code> element is now conditional if <code>title:</code> is not set for a <code>page</code> or collection item. <a href="https://github.com/mmistakes/minimal-mistakes/issues/312">#312</a></li>
+</ul>
+</section>
+<section id="maintenance-11" class="level3">
+<h3 class="anchored" data-anchor-id="maintenance-11">Maintenance</h3>
+<ul>
+<li><p>Remove duplicate <code>fa-twitter</code> and <code>fa-twitter-square</code> classes from <code>_utilities.scss</code>. <a href="https://github.com/mmistakes/minimal-mistakes/issues/302">#302</a></p></li>
+<li><p>Document installing additional Jekyll gem dependencies when using <code>gem "jekyll"</code> instead of <code>gem "github-pages"</code> to avoid any errors on run. <a href="https://github.com/mmistakes/minimal-mistakes/issues/305">#305</a></p></li>
+</ul>
+</section>
+</section>
+<section id="section-25" class="level2">
+<h2 class="anchored" data-anchor-id="section-25"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.1.7">3.1.7</a></h2>
+<section id="enhancements-15" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-15">Enhancements</h3>
+<ul>
+<li>Add translation key for “Recent Posts” used in home page <code>index.html</code>. <a href="https://github.com/mmistakes/minimal-mistakes/pull/316">#316</a></li>
+</ul>
+</section>
+<section id="maintenance-12" class="level3">
+<h3 class="anchored" data-anchor-id="maintenance-12">Maintenance</h3>
+<ul>
+<li>Small fix to avoid underlying the whitespace between icons and related text when hovering. <a href="https://github.com/mmistakes/minimal-mistakes/pull/303">#303</a></li>
+</ul>
+</section>
+</section>
+<section id="section-26" class="level2">
+<h2 class="anchored" data-anchor-id="section-26"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.1.6">3.1.6</a></h2>
+<section id="maintenance-13" class="level3">
+<h3 class="anchored" data-anchor-id="maintenance-13">Maintenance</h3>
+<ul>
+<li>Update gem dependencies. Run <code>bundle</code> to update <code>Gemfile.lock</code>.</li>
+</ul>
+</section>
+</section>
+<section id="section-27" class="level2">
+<h2 class="anchored" data-anchor-id="section-27"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.1.5">3.1.5</a></h2>
+<section id="maintenance-14" class="level3">
+<h3 class="anchored" data-anchor-id="maintenance-14">Maintenance</h3>
+<ul>
+<li>Fix <code>www</code> and <code>https</code> links in author profile include <a href="https://github.com/mmistakes/minimal-mistakes/pull/293">#293</a></li>
+</ul>
+</section>
+</section>
+<section id="section-28" class="level2">
+<h2 class="anchored" data-anchor-id="section-28"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.1.4">3.1.4</a></h2>
+<section id="enhancements-16" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-16">Enhancements</h3>
+<ul>
+<li>Add overlay_filter param to hero headers <a href="https://github.com/mmistakes/minimal-mistakes/pull/298">#298</a></li>
+</ul>
+</section>
+</section>
+<section id="section-29" class="level2">
+<h2 class="anchored" data-anchor-id="section-29"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.1.3">3.1.3</a></h2>
+<section id="enhancements-17" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-17">Enhancements</h3>
+<ul>
+<li>Improve <code>site.locale</code> documentation <a href="https://github.com/mmistakes/minimal-mistakes/issues/284">#284</a></li>
+<li>Remove ProTip note about protocol-less <code>site.url</code> as it is an anti-pattern <a href="https://github.com/mmistakes/minimal-mistakes/issues/288">#288</a></li>
+</ul>
+</section>
+<section id="bug-fixes-16" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-16">Bug Fixes</h3>
+<ul>
+<li>Fix <code>og_image</code> URL in seo.html <a href="https://github.com/mmistakes/minimal-mistakes/issues/277">#277</a></li>
+<li>Fix <code>author_profile</code> toggle when assigned in a <code>_layout</code> <a href="https://github.com/mmistakes/minimal-mistakes/issues/285">#285</a></li>
+<li>Fix typo in <code>build:all</code> npm script <a href="https://github.com/mmistakes/minimal-mistakes/pull/283">#283</a></li>
+<li>Fix URL typo documentation <a href="https://github.com/mmistakes/minimal-mistakes/issues/287">#287</a></li>
+<li>SEO author bug. If <code>twitter.username</code> is set and <code>author.twitter</code> is <code>nil</code> bad things happen. <a href="https://github.com/mmistakes/minimal-mistakes/issues/289">#289</a></li>
+</ul>
+</section>
+</section>
+<section id="section-30" class="level2">
+<h2 class="anchored" data-anchor-id="section-30"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.1.2">3.1.2</a></h2>
+<section id="enhancements-18" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-18">Enhancements</h3>
+<ul>
+<li>Explain how to use <code>nav_list</code> helper in <a href="https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list">documentation</a>.</li>
+<li>Reduce left/right padding on smaller screens to increase width of main content column.</li>
+</ul>
+</section>
+<section id="bug-fixes-17" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-17">Bug Fixes</h3>
+<ul>
+<li>Fix alignment issues with related posts <a href="https://github.com/mmistakes/minimal-mistakes/issues/273">#273</a> and “Follow” button in author profile <a href="https://github.com/mmistakes/minimal-mistakes/issues/274">#274</a>.</li>
+</ul>
+</section>
+</section>
+<section id="section-31" class="level2">
+<h2 class="anchored" data-anchor-id="section-31"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.1.1">3.1.1</a></h2>
+<section id="bug-fix" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fix">Bug Fix</h3>
+<ul>
+<li>Fixed reading time bug when <code>words_per_minute</code> wasn’t set in <code>_config.yml</code> <a href="https://github.com/mmistakes/minimal-mistakes/issues/271">#271</a></li>
+</ul>
+</section>
+</section>
+<section id="section-32" class="level2">
+<h2 class="anchored" data-anchor-id="section-32"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.1.0">3.1.0</a></h2>
+<section id="enhancements-19" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-19">Enhancements</h3>
+<ul>
+<li>Updated <a href="https://fortawesome.github.io/Font-Awesome/whats-new/">Font Awesome</a> to version 4.6.1</li>
+<li>Added optional GitHub and Bitbucket links to footer if set on <code>site.author</code> in <code>_config.yml</code>.</li>
+</ul>
+</section>
+<section id="bug-fixes-18" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-18">Bug Fixes</h3>
+<ul>
+<li>Fixed Bitbucket URL typo in author sidebar.</li>
+</ul>
+</section>
+</section>
+<section id="section-33" class="level2">
+<h2 class="anchored" data-anchor-id="section-33"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.0.3">3.0.3</a></h2>
+<section id="enhancements-20" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-20">Enhancements</h3>
+<ul>
+<li>Rebuilt the entire theme: layouts, includes, stylesheets, scripts, you name it.</li>
+<li>Refreshed the look and feel while staying true to the original design of the theme (author sidebar/main content).</li>
+<li>Replaced grid system with <a href="http://susy.oddbird.net/">Susy</a>.</li>
+<li>Replaced Grunt tasks with <code>npm</code> scripts.</li>
+<li>Removed Google Fonts and replaced with system fonts to improve performance (they can be <a href="https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/">added back</a> if desired)</li>
+<li>Greatly improved <a href="https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/">theme documentation</a>.</li>
+<li>Increased the amount of sample posts, sample pages, and sample collections to throughly test the theme and edge-cases.</li>
+<li>Moved all sample content and assets out of <code>master</code> to keep it as clean as possible for forking.</li>
+<li>Added new layouts for <code>splash</code> pages, archives for <a href="https://github.com/jekyll/jekyll-archives"><code>jekyll-archives</code></a> if enabled, and <a href="https://github.com/penibelst/jekyll-compress-html"><code>compress.html</code></a> to improve performance.</li>
+<li>Added taxonomy links to posts (tags and categories).</li>
+<li>Added optional “reading time” meta data.</li>
+<li>Improved Liquid used for Twitter Cards and Open Graph data in <code>&lt;head&gt;</code>.</li>
+<li>Improved <code>gallery</code> include helper and added <code>feature_row</code> for use with splash page layout.</li>
+<li>Added Keybase.io, author web URI, and Bitbucket optional links to sidebar.</li>
+<li>Add <code>feed.xml</code> link to footer.</li>
+<li>Added a <a href="https://mmistakes.github.io/minimal-mistakes/docs/ui-text/">UI text data file</a> to easily change all text found in the theme.</li>
+<li>Added LinkedIn to optional social share buttons.</li>
+<li>Added Facebook, Google+, and custom commenting options in addition to Disqus.</li>
+<li>Added optional breadcrumb links.</li>
+</ul>
+</section>
+</section>
+<section id="section-34" class="level2">
+<h2 class="anchored" data-anchor-id="section-34"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/2.2.1">2.2.1</a></h2>
+</section>
+<section id="section-35" class="level2">
+<h2 class="anchored" data-anchor-id="section-35"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/2.2.0">2.2.0</a></h2>
+<section id="enhancements-21" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-21">Enhancements</h3>
+<ul>
+<li>Add support for Jekyll 3.0</li>
+<li>Minor updates to syntax highlighting CSS and theme documentation</li>
+</ul>
+</section>
+</section>
+<section id="section-36" class="level2">
+<h2 class="anchored" data-anchor-id="section-36"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/2.1.3">2.1.3</a></h2>
+<section id="enhancements-22" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-22">Enhancements</h3>
+<ul>
+<li>Cleaner print styles that remove the top navigation, social sharing buttons, and other elements not needed when printed.</li>
+</ul>
+</section>
+</section>
+<section id="section-37" class="level2">
+<h2 class="anchored" data-anchor-id="section-37"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/2.1.2">2.1.2</a></h2>
+<section id="enhancements-23" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-23">Enhancements</h3>
+<ul>
+<li>Add optional CodePen icon/url to author side bar <a href="https://github.com/mmistakes/minimal-mistakes/pull/156">#156</a></li>
+<li>Documented Stackoverflow username explanation in <code>_config.yml</code> <a href="https://github.com/mmistakes/minimal-mistakes/pull/157">#157</a></li>
+<li>Simplified Liquid in <code>post-index.html</code> to better handle year listings <a href="https://github.com/mmistakes/minimal-mistakes/pull/166">#166</a></li>
+</ul>
+</section>
+<section id="bug-fixes-19" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-19">Bug Fixes</h3>
+<ul>
+<li>Cleanup Facebook related Open Graph meta tags <a href="https://github.com/mmistakes/minimal-mistakes/issues/149">#149</a></li>
+<li>Corrected minor typos <a href="https://github.com/mmistakes/minimal-mistakes/pull/158">#158</a> <a href="https://github.com/mmistakes/minimal-mistakes/issues/175">#175</a></li>
+</ul>
+</section>
+</section>
+<section id="section-38" class="level2">
+<h2 class="anchored" data-anchor-id="section-38"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/2.1.1">2.1.1</a></h2>
+<section id="enhancements-24" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-24">Enhancements</h3>
+<ul>
+<li>Add optional XING profile link to author sidebar</li>
+<li>Include open graph meta tags for feature image (if assigned) <a href="https://github.com/mmistakes/minimal-mistakes/issues/149">#149</a></li>
+<li>Create an include for feed footer</li>
+</ul>
+</section>
+<section id="bug-fixes-20" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-20">Bug Fixes</h3>
+<ul>
+<li>Remove http protocol from Google search form on sample 404 page</li>
+<li>Only show related posts if there are one or more available</li>
+<li>Fix alignment of email address link in author sidebar</li>
+</ul>
+</section>
+</section>
+<section id="section-39" class="level2">
+<h2 class="anchored" data-anchor-id="section-39"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/2.1.0">2.1.0</a></h2>
+<section id="enhancements-25" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-25">Enhancements</h3>
+<ul>
+<li>Add optional social sharing buttons (<a href="https://github.com/mmistakes/minimal-mistakes/issues/42">#42</a>)</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://cloud.githubusercontent.com/assets/1376749/5860522/d9f28a96-a22f-11e4-9b83-940a3a9a766a.png" class="img-fluid figure-img"></p>
+<figcaption>social sharing buttons</figcaption>
+</figure>
+</div>
+<ul>
+<li>Add Soundcloud, YouTube (<a href="https://github.com/mmistakes/minimal-mistakes/pull/95">#95</a>), Flickr (<a href="https://github.com/mmistakes/minimal-mistakes/pull/119">#119</a>), and Weibo (<a href="https://github.com/mmistakes/minimal-mistakes/pull/116">#116</a>) icons for use in author sidebar.</li>
+<li>Fix typos in posts and documentation and remove references to Less</li>
+<li>Include note about Octopress gem being optional</li>
+<li>Post author override support extended to the Atom feed (<a href="https://github.com/mmistakes/minimal-mistakes/pull/71">#71</a>)</li>
+<li>Only include email address in feed if specified in <code>_config.yml</code> or author <code>_data</code></li>
+<li>Wrap all page content in <code>#main</code> to harmonize article and post index styles (<a href="https://github.com/mmistakes/minimal-mistakes/issues/86">#86</a>)</li>
+<li>Include new sample feature images for posts and pages</li>
+<li>Table of contents improvements: fix collapse toggle, indent nested elements, show on small screens, and create an <code>_include</code> for reusing in posts and pages.</li>
+<li>Include note about running Jekyll with <code>bundle exec</code> when using Bundler</li>
+<li>Fix home page path in top navigation</li>
+<li>Remove Google Authorship (<a href="https://github.com/mmistakes/minimal-mistakes/issues/120">#120</a>)</li>
+<li>Remove duplicate author content that displayed in <code>div.article-author-bottom</code></li>
+<li>Removed unused <code>_sass/print.scss</code> styles</li>
+<li>Improve comments in <code>.scss</code> files</li>
+</ul>
+</section>
+</section>
+<section id="section-40" class="level2">
+<h2 class="anchored" data-anchor-id="section-40"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/v2.0">2.0.0</a></h2>
+</section>
+<section id="section-41" class="level2">
+<h2 class="anchored" data-anchor-id="section-41"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/1.3.3">1.3.3</a></h2>
+<section id="enhancements-26" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-26">Enhancements</h3>
+<ul>
+<li>Added new icons and profile links for Stackoverflow, Dribbble, Pinterest, Foursquare, and Steam to the author bio sidebar.</li>
+<li>Cleaned up the Kramdown auto table of contents styling to be more readable</li>
+<li>Removed page width specific .less stylesheets and created mixins for easier updating</li>
+<li>Removed Modernizr since it wasn’t being used</li>
+<li>Added pages to sitemap.xml</li>
+<li>Added category: to rake new_post task</li>
+<li>Minor typographic changes</li>
+</ul>
+</section>
+<section id="bug-fixes-21" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-21">Bug Fixes</h3>
+<ul>
+<li>Corrected various broken links in README and Theme Setup.</li>
+</ul>
+</section>
+</section>
+<section id="section-42" class="level2">
+<h2 class="anchored" data-anchor-id="section-42"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/1.3.1">1.3.1</a></h2>
+<section id="enhancements-27" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-27">Enhancements</h3>
+<ul>
+<li>Cleaned up table of contents styling</li>
+<li>Reworked top navigation to be a better experience on small screens. Nav items now display vertically when the menu button is tapped, revealing links with larger touch targets.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://camo.githubusercontent.com/3fbd8c1326485f4b1ab32c0005c0fca7660b5d31/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313337363734392f323136343037352f31653366303663322d393465372d313165332d383961612d6436623636376562306564662e676966.png" class="img-fluid figure-img"></p>
+<figcaption>menu animation</figcaption>
+</figure>
+</div>
+</section>
+</section>
+<section id="section-43" class="level2">
+<h2 class="anchored" data-anchor-id="section-43"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/1.2.0">1.2.0</a></h2>
+<section id="bug-fixes-22" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-22">Bug Fixes</h3>
+<ul>
+<li>Table weren’t filling the entire width of the content container. They now scale at 100%. Thanks <a href="https://github.com/dhruvbhatia"><span class="citation" data-cites="dhruvbhatia">@dhruvbhatia</span></a></li>
+</ul>
+</section>
+<section id="enhancements-28" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-28">Enhancements</h3>
+<ul>
+<li>Decreased spacing between Markdown footnotes</li>
+<li>Removed dark background on footer</li>
+<li>Removed UPPERCASE styling on post titles in the index listing</li>
+</ul>
+</section>
+</section>
+<section id="section-44" class="level2">
+<h2 class="anchored" data-anchor-id="section-44"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/1.1.4">1.1.4</a></h2>
+<section id="bug-fixes-23" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-23">Bug Fixes</h3>
+<ul>
+<li>Fix top navigation bug issue (<a href="https://github.com/mmistakes/minimal-mistakes/issues/10">#10</a>) for real this time. Remember to clear your floats kids.</li>
+</ul>
+</section>
+</section>
+<section id="section-45" class="level2">
+<h2 class="anchored" data-anchor-id="section-45"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/1.1.3">1.1.3</a></h2>
+<section id="bug-fixes-24" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-24">Bug Fixes</h3>
+<ul>
+<li>Fix top navigation links that weren’t click able on small viewports (Issue <a href="https://github.com/mmistakes/minimal-mistakes/issues/10">#10</a>).</li>
+<li>Remove line wrap from top navigation links that may span multiple lines.</li>
+</ul>
+</section>
+</section>
+<section id="section-46" class="level2">
+<h2 class="anchored" data-anchor-id="section-46"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/1.1.2">1.1.2</a></h2>
+<section id="enhancements-29" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-29">Enhancements</h3>
+<ul>
+<li>Added Grunt build script for compiling Less/JavaScript and optimizing image assets.</li>
+<li>Added support for large image summary Twitter card.</li>
+<li>Stylesheet adjustments</li>
+</ul>
+</section>
+</section>
+<section id="section-47" class="level2">
+<h2 class="anchored" data-anchor-id="section-47"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/1.1.1">1.1.1</a></h2>
+<section id="bug-fixes-25" class="level3">
+<h3 class="anchored" data-anchor-id="bug-fixes-25">Bug Fixes</h3>
+<ul>
+<li>Removed <a href="http://typeplate.com/">Typeplate</a> styles. Was <a href="https://github.com/typeplate/typeplate.github.io/issues/108">causing issues with newer versions of Less</a> and is no longer maintained.</li>
+</ul>
+</section>
+<section id="enhancements-30" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-30">Enhancements</h3>
+<ul>
+<li>Added <a href="http://mmistakes.github.io/minimal-mistakes/theme-setup/#feature-images">image attribution</a> for post and page feature images.</li>
+<li>Added <a href="http://mmistakes.github.io/minimal-mistakes/404.html">404 page</a>.</li>
+<li>Cleaned up various Less variables to better align with naming conventions used in other MM Jekyll themes.</li>
+<li>Removed Chrome Frame references.</li>
+<li>Added global CSS3 transitions to text and block elements.</li>
+<li>Improved typography in a few places.</li>
+</ul>
+</section>
+</section>
+<section id="section-48" class="level2">
+<h2 class="anchored" data-anchor-id="section-48"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/v1.0.2">1.0.2</a></h2>
+<section id="enhancements-31" class="level3">
+<h3 class="anchored" data-anchor-id="enhancements-31">Enhancements</h3>
+<ul>
+<li>Google Analytics, Google Authorship, webmaster verifies, and Twitter card meta are now optional.</li>
+</ul>
+</section>
+</section>
+<section id="section-49" class="level2">
+<h2 class="anchored" data-anchor-id="section-49"><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/v1.0.1">1.0.1</a></h2>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/sergerey\.org");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© 2024 Sergio J. Rey</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p><a href="https://github.com/sjsrey">GitHub</a> | <a href="https://scholar.google.com/">Google Scholar</a></p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
