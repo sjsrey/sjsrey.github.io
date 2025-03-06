@@ -19,7 +19,7 @@ My research interests are in **spatial data science**, with a focus on **spatial
 
 
 
-## Latest Books
+##  Books
 - 2023 Rey, S.J., D. Arribas-Bel, and L.J. Wolf, Geographical Data
    Science with Python. CRC Press, Boca Raton. 
 - 2022 Rey, S.J. and R.S. Franklin (eds.) Handbook of Spatial Analysis for the Social
