@@ -1,0 +1,32 @@
+---
+title: "Sergio J. Rey"
+subtitle: "Professor of Geography | Spatial Data Scientist"
+author: ""
+date: ""
+---
+
+<img src="https://github.com/sjsrey.png" width="150px" style="border-radius: 50%;" />
+
+## 
+I am a Professor of Geography and Founding Director of the [Center for Open Geographical Science](http://cogs.sdsu.edu) at San Diego State University.
+My research interests are in **spatial data science**, with a focus on **spatial inequality, regional science, and open-source geospatial computing**. I am the lead developer of **[PySAL](http://pysal.org)**.
+
+🔗 [Google Scholar](https://scholar.google.com/citations?user=qqjwTf4AAAAJ&hl=en) | 🔗 [GitHub](https://github.com/sjsrey) | ✉️ srey@sdsu.edu
+
+
+## Latest Books
+- 2023 Rey, S.J., D. Arribas-Bel, and L.J. Wolf, Geographical Data
+   Science with Python. CRC Press, Boca Raton. 
+- 2022 Rey, S.J. and R.S. Franklin (eds.) Handbook of Spatial Analysis for the Social
+   Sciences. Edward Elgar, Cheltenham.
+
+## Latest Articles
+1. 2025 Rey, S.J. "Spatial Inequality." *Region* 12 (1), p 19-45.  
+   doi: [10.18335/region.v12i1.563](https://doi.org/10.18335/region.v12i1.563)
+1. 2024 Rey, S.J., E. Knaap, Z. Neal, C. Andris. "Unraveling incommensurate spatial partitions: A bipartite graph approach to school-neighborhood  interactions and their impacts." *Network and Spatial  Economics*.  
+   doi: [10.1007/s11067-024-09655-x](https://doi.org/10.1007/s11067-024-09655-x).
+1. 2024 Knaap, K. S. Rey. "geosnap: The Geospatial Neighborhood Analysis
+   Package." *Proceedings of the 23rd Python in Science Conference (SciPy 2024)*.  
+   doi: [10.25080/FVWM4182](https://proceedings.scipy.org/articles/FVWM4182).
+   
+📄 [See all publications](publications.qmd)

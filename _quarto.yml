@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sergio J. Rey"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+  page-footer:
+    left: "© 2024 Sergio J. Rey"
+    right: "[GitHub](https://github.com/sjsrey) | [Google Scholar](https://scholar.google.com/)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
