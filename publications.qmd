@@ -15,6 +15,10 @@ title: "Publications"
 ## Refereed Journal Articles and Book Chapters
 1. 2025 Rey, S.J. "Spatial Inequality." *Region* 12 (1), p 19-45.  
    doi: [10.18335/region.v12i1.563](https://doi.org/10.18335/region.v12i1.563)
+1. 2024 Reynolds, C., P. Trubenstein, S. Pahlen, R. Corley, S. Rey, S.
+   Wadsworth. "Leisure activity engagement, social capital, and urban-rural
+   influences on IQ: Implication for cognitive aging." *Innovation in Aging*.  
+   doi: [10.1093/geroni/igae098.1812](https://doi.org/10.1093/geroni/igae098.1812)
 1. 2024 Rey, S.J., E. Knaap, Z. Neal, C. Andris. "Unraveling incommensurate spatial partitions: A bipartite graph approach to school-neighborhood  interactions and their impacts." *Network and Spatial  Economics*.  
    doi: [10.1007/s11067-024-09655-x](https://doi.org/10.1007/s11067-024-09655-x).
 1. 2024 Knaap, K. S. Rey. "geosnap: The Geospatial Neighborhood Analysis

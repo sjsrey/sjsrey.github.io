@@ -11,7 +11,12 @@ date: ""
 I am a Professor of Geography and Founding Director of the [Center for Open Geographical Science](http://cogs.sdsu.edu) at San Diego State University.
 My research interests are in **spatial data science**, with a focus on **spatial inequality, regional science, and open-source geospatial computing**. I am the lead developer of **[PySAL](http://pysal.org)**.
 
-🔗 [Google Scholar](https://scholar.google.com/citations?user=qqjwTf4AAAAJ&hl=en) | 🔗 [GitHub](https://github.com/sjsrey) | ✉️ srey@sdsu.edu
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5857--9762-a6ce39?style=flat&logo=orcid)](https://orcid.org/0000-0001-5857-9762) 
+| [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-qqjwTf4AAAAJ-4285F4?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=qqjwTf4AAAAJ&hl=en) 
+| [![GitHub](https://img.shields.io/badge/GitHub-sjsrey-181717?style=flat&logo=github)](https://github.com/sjsrey) 
+| ✉️ srey@sdsu.edu
+
+
 
 
 ## Latest Books
