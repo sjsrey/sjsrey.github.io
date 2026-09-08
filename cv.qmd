@@ -12,7 +12,7 @@ title: "CV"
 - 1985 B.S. Environmental Science, The Richard Stockton College of New Jersey.
   
 ### Honors and Awards
-
+- 2026 Fellow, University Consortium for Geographic Information Science
 - 2023 Fellow, Amercian Association for the Advancement of Science.
 - 2017 David Boyce Award for Service to Regional Science. North American Regional Science Council.
 - 2016 Elected Fellow, Regional Science Association International.
@@ -89,6 +89,7 @@ Geo-Information.
   on Spatial Econometrics" International Regional Science Review
 
 
+
 #### Books and Edited Volumes
 1. 2023 Rey, S.J., D. Arribas-Bel, and L.J. Wolf, Geographical Data
    Science with Python. CRC Press, Boca Raton. 
@@ -100,10 +101,13 @@ Geo-Information.
 1. 2002 Anselin, L. and S.J. Rey (eds.), New Tools for Spatial Data Analysis: Proceedings of a Workshop. Center for Spatially Integrated Social Science, University of California, Santa Barbara (CD-ROM).
 
 #### Refereed Journal Articles and Book Chapters
-1. 2026 Rey, S. J. "Mind the gap and the map: Measuring distributional and spatial income polarization", *Spatial Economic Analysis*,  
+1. 2026 Rey, S.J., M. Fleischmann, L. Winkler, "GeoPlanar: Planar enforcement and coverage topology repairing for Python", *Environment and Planning B: Urban Analytics and City Science*,  
+   doi: [10.1177/23998083261470518](https://doi.org/10.1177/23998083261470518).
+1. 2026 Rey, S.J. "Mind the gap and the map: Measuring distributional and spatial income polarization", *Spatial Economic Analysis*,  
    doi: [10.1080/17421772.2025.2606783](https://doi.org/10.1080/17421772.2025.2606783).
-1. 2025 Trubenstein, P., S. Pahlen, R. Corley, S. Rey, S.J. Wadsworth, C.A. Reynolds "Cognitive functioning in context: leisure activity engagement, social capital, and urbanicity-rurality interplay", *PLOS One*, Accepted.
-1. 2025 Embury, J. A. Nara, K. León, T. Herman, S. Rey & M. Solem. "Assessing the effects of geocomputation lessons on secondary school students’ perceptions of geography and computer science",
+1. 2026 Trubenstein, P., S. Pahlen, R. Corley, S. Rey, S.J. Wadsworth, C.A. Reynolds "Cognitive functioning in context: leisure activity engagement, social capital, and urbanicity-rurality interplay", *PLOS One*,  
+   doi: [10.1371/journal.pone.0339496](https://doi.org/10.1371/journal.pone.0339496  ).
+1. 2026 Embury, J. A. Nara, K. León, T. Herman, S. Rey & M. Solem. "Assessing the effects of geocomputation lessons on secondary school students’ perceptions of geography and computer science",
     *Annals of the American Association of Geographers*,  
     doi: [10.1080/24694452.2025.2569516](https://doi.org/10.1080/24694452.2025.2569516). 
 3. 2025 Wei, R., X. Feng, S.J. Rey. "Delineating school attendance boundaries to improve diversity and community integrity." *Environment and Planning B*.  
@@ -1007,7 +1011,12 @@ doi: [journl/v33y2011p107-135.html](https://ideas.repec.org/a/tou/journl/v33y201
    Colloquium, Department of Geography San Diego State University, December.
 
 #### Conference Participation and Presentations
-
+1. 2026 Rey, S.J. "Mind the gap and the map: Measuring distributional and
+   spatial income polarization." World Inequality Conference, Paris, May.
+1. 2026 Rey, S.J. "On the Distribution of Spatial Polarization Indices." Western Regional
+   Science Association, February.
+1. 2026 Henderson, C. and S.J. Rey, "The Geography of History: Connecting Historic
+   Preservation with Spatial Inequality." Western Regional Science Association, February.
 1. 2025 Rey, S.J. "Spatial data science with PySAL." jupytercon. San Diego, October.
 1. 2025 Asomani, K. and S.J. Rey, "Economic Impact of Transitioning
    from Annual to Perennial Wheat: Regional Input Output Analysis in
@@ -1020,7 +1029,7 @@ doi: [journl/v33y2011p107-135.html](https://ideas.repec.org/a/tou/journl/v33y201
    Comparative Analysis of Measures." North American Meetings of the
    Regional Science Association International. Denver, Co, Nov 12-15
    2025
-1. Tibbetts, T. and S.J Rey., "The Geography of Division: A Statistical
+1. Tibbetts, T. and S.J Rey, "The Geography of Division: A Statistical
    Tour of Polarization." North American Meetings of the Regional
    Science Association International. Denver, Co, November.
 1. 2025 Rey, S.J. "On the distribution of a spatial polarization index."
@@ -1467,7 +1476,7 @@ GeoPython. Basil, Switzerland. June.
    meeting, San Diego, CA, April.
 
 ### Research Grants and Contracts
-- 2024-26 POSE: Phase II: An Open Source Ecosystem for Spatial Data Science.
+- 2024-27 POSE: Phase II: An Open Source Ecosystem for Spatial Data Science.
     Principal Investigator. Sponsor: National Science Foundation ($1,484,914).
 - 2024-26  Spatial Homogeneity Learning Models with Applications to Socioeconomic Problems. Co-Principal Investigator. Sponsor: National Science Foundation ($500,000).
 - 2021-24 Neighborhoods and Education. Principal Investigator. Sponsor: The Bill and Melinda Gates Foundation  ($533,000).
@@ -1810,6 +1819,7 @@ Sponsor: Research, Scholarly and
 
 ### Service to University and Community
 #### Department/School
+- 2019- Infinite loop
 - 2018- Chair, Spatial Analysis Minor Committee
 - 2018- Member, Graduate Commitee
 - 2016 Coordinator, BS in GIS 

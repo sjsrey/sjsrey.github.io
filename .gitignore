@@ -3,3 +3,5 @@ Gemfile*
 
 
 /.quarto/
+
+**/*.quarto_ipynb
