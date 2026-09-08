@@ -132,22 +132,14 @@ Geo-Information.
    Disruptions." *International Journal of Geographic Information
    Science*.  
    doi: [10.1080/13658816.2024.2405191](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2405191)
-<<<<<<< Updated upstream
-1. 2024 Murray, A.T., L. Anselin,  S.J. Rey. ""Arthur Getis: a legend in
-=======
 1. 2024 Murray, A.T., L. Anselin,  S.J. Rey. "Arthur Getis: a legend in
->>>>>>> Stashed changes
    geographical systems." *Journal of Geographical Systems* 26, 181–190.  
    doi: [10.1007/s10109-024-00443-2](https://doi.org/10.1007/s10109-024-00443-2)
 1. 2024 Embury, J., A. Nara, S.J. Rey, M. Tsou, S. Ghanipoor
    Machiani. "Detecting synthetic population bias using a spatially-oriented
    framework and independent validation data." *International Journal of
-<<<<<<< Updated upstream
-   Geographic Information Science*. Forthcoming.
-=======
    Geographic Information Science*.  
    doi: [10.1080/13658816.2024.2358399](https://doi.org/10.1080/13658816.2024.2358399).
->>>>>>> Stashed changes
 1. 2024 Knaap, E. and S.J. Rey. "Measuring two decades of urban spatial
    structure: The evolution of agglomeration economies in American
    metros." *Computers, Environment and Urban Systems*.  
