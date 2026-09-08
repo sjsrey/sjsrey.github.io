@@ -14,7 +14,7 @@ website:
         text: CV
   page-footer:
     left: "© 2024 Sergio J. Rey"
-    right: "[GitHub](https://github.com/sjsrey) | [Google Scholar](https://scholar.google.com/)"
+    right: "[GitHub](https://github.com/sjsrey) | [Google Scholar](https://scholar.google.com/citations?user=qqjwTf4AAAAJ&hl=en)"
 
 format:
   html:

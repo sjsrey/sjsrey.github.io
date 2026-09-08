@@ -108,6 +108,10 @@ Geo-Information.
 1. 2002 Anselin, L. and S.J. Rey (eds.), New Tools for Spatial Data Analysis: Proceedings of a Workshop. Center for Spatially Integrated Social Science, University of California, Santa Barbara (CD-ROM).
 
 #### Refereed Journal Articles and Book Chapters
+1. 2024 Reynolds, C., P. Trubenstein, S. Pahlen, R. Corley, S. Rey, S.
+   Wadsworth. "Leisure activity engagement, social capital, and urban-rural
+   influences on IQ: Implication for cognitive aging." *Innovation in Aging*.  
+   doi: [10.1093/geroni/igae098.1812](https://doi.org/10.1093/geroni/igae098.1812)
 1. 2024 Rey, S.J., E. Knaap, Z. Neal, C. Andris. "Unraveling incommensurate spatial partitions: A bipartite graph approach to school-neighborhood  interactions and their impacts." *Network and Spatial  Economics*.  
    doi: [10.1007/s11067-024-09655-x](https://doi.org/10.1007/s11067-024-09655-x).
 1. 2024 Knaap, K. S. Rey. "geosnap: The Geospatial Neighborhood Analysis
@@ -128,14 +132,22 @@ Geo-Information.
    Disruptions." *International Journal of Geographic Information
    Science*.  
    doi: [10.1080/13658816.2024.2405191](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2405191)
+<<<<<<< Updated upstream
+1. 2024 Murray, A.T., L. Anselin,  S.J. Rey. ""Arthur Getis: a legend in
+=======
 1. 2024 Murray, A.T., L. Anselin,  S.J. Rey. "Arthur Getis: a legend in
+>>>>>>> Stashed changes
    geographical systems." *Journal of Geographical Systems* 26, 181–190.  
    doi: [10.1007/s10109-024-00443-2](https://doi.org/10.1007/s10109-024-00443-2)
 1. 2024 Embury, J., A. Nara, S.J. Rey, M. Tsou, S. Ghanipoor
    Machiani. "Detecting synthetic population bias using a spatially-oriented
    framework and independent validation data." *International Journal of
+<<<<<<< Updated upstream
+   Geographic Information Science*. Forthcoming.
+=======
    Geographic Information Science*.  
    doi: [10.1080/13658816.2024.2358399](https://doi.org/10.1080/13658816.2024.2358399).
+>>>>>>> Stashed changes
 1. 2024 Knaap, E. and S.J. Rey. "Measuring two decades of urban spatial
    structure: The evolution of agglomeration economies in American
    metros." *Computers, Environment and Urban Systems*.  

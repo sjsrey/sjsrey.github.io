@@ -2,6 +2,7 @@
 title: "Publications"
 ---
 
+
 ## Books and Edited Volumes
 1. 2023 Rey, S.J., D. Arribas-Bel, and L.J. Wolf, Geographical Data
    Science with Python. CRC Press, Boca Raton. 
@@ -13,10 +14,13 @@ title: "Publications"
 1. 2002 Anselin, L. and S.J. Rey (eds.), New Tools for Spatial Data Analysis: Proceedings of a Workshop. Center for Spatially Integrated Social Science, University of California, Santa Barbara (CD-ROM).
 
 ## Refereed Journal Articles and Book Chapters
-1. 2026 Rey, S. J. "Mind the gap and the map: Measuring distributional and spatial income polarization", *Spatial Economic Analysis*,  
+1. 2026 Rey, S.J., M. Fleischmann, L. Winkler, "GeoPlanar: Planar enforcement and coverage topology repairing for Python", *Environment and Planning B: Urban Analytics and City Science*,  
+   doi: [10.1177/23998083261470518](https://doi.org/10.1177/23998083261470518).
+1. 2026 Rey, S.J. "Mind the gap and the map: Measuring distributional and spatial income polarization", *Spatial Economic Analysis*,  
    doi: [10.1080/17421772.2025.2606783](https://doi.org/10.1080/17421772.2025.2606783).
-1. 2025 Trubenstein, P., S. Pahlen, R. Corley, S. Rey, S.J. Wadsworth, C.A. Reynolds "Cognitive functioning in context: leisure activity engagement, social capital, and urbanicity-rurality interplay", *PLOS One*, Accepted.
-1. 2025 Embury, J. A. Nara, K. León, T. Herman, S. Rey & M. Solem. "Assessing the effects of geocomputation lessons on secondary school students’ perceptions of geography and computer science",
+1. 2026 Trubenstein, P., S. Pahlen, R. Corley, S. Rey, S.J. Wadsworth, C.A. Reynolds "Cognitive functioning in context: leisure activity engagement, social capital, and urbanicity-rurality interplay", *PLOS One*,  
+   doi: [10.1371/journal.pone.0339496](https://doi.org/10.1371/journal.pone.0339496  ).
+1. 2026 Embury, J. A. Nara, K. León, T. Herman, S. Rey & M. Solem. "Assessing the effects of geocomputation lessons on secondary school students’ perceptions of geography and computer science",
     *Annals of the American Association of Geographers*,  
     doi: [10.1080/24694452.2025.2569516](https://doi.org/10.1080/24694452.2025.2569516). 
 3. 2025 Wei, R., X. Feng, S.J. Rey. "Delineating school attendance boundaries to improve diversity and community integrity." *Environment and Planning B*.  

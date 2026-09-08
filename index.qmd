@@ -19,19 +19,19 @@ My research interests are in **spatial data science**, with a focus on **spatial
 
 
 
-##  Books
+##  Latest Books
 - 2023 Rey, S.J., D. Arribas-Bel, and L.J. Wolf, Geographical Data
    Science with Python. CRC Press, Boca Raton. 
 - 2022 Rey, S.J. and R.S. Franklin (eds.) Handbook of Spatial Analysis for the Social
    Sciences. Edward Elgar, Cheltenham.
 
 ## Latest Articles
-1. 2025 Rey, S.J. "Spatial Inequality." *Region* 12 (1), p 19-45.  
-   doi: [10.18335/region.v12i1.563](https://doi.org/10.18335/region.v12i1.563)
-1. 2024 Rey, S.J., E. Knaap, Z. Neal, C. Andris. "Unraveling incommensurate spatial partitions: A bipartite graph approach to school-neighborhood  interactions and their impacts." *Network and Spatial  Economics*.  
-   doi: [10.1007/s11067-024-09655-x](https://doi.org/10.1007/s11067-024-09655-x).
-1. 2024 Knaap, K. S. Rey. "geosnap: The Geospatial Neighborhood Analysis
-   Package." *Proceedings of the 23rd Python in Science Conference (SciPy 2024)*.  
-   doi: [10.25080/FVWM4182](https://proceedings.scipy.org/articles/FVWM4182).
+1. 2026 Rey, S.J., M. Fleischmann, L. Winkler, "GeoPlanar: Planar enforcement and coverage topology repairing for Python", *Environment and Planning B: Urban Analytics and City Science*,  
+   doi: [10.1177/23998083261470518](https://doi.org/10.1177/23998083261470518).
+1. 2026 Rey, S. J. "Mind the gap and the map: Measuring distributional and spatial income polarization", *Spatial Economic Analysis*,  
+   doi: [10.1080/17421772.2025.2606783](https://doi.org/10.1080/17421772.2025.2606783).
+1. 2026 Trubenstein, P., S. Pahlen, R. Corley, S. Rey, S.J. Wadsworth, C.A. Reynolds "Cognitive functioning in context: leisure activity engagement, social capital, and urbanicity-rurality interplay", *PLOS One*,  
+   doi: [10.1371/journal.pone.0339496](https://doi.org/10.1371/journal.pone.0339496  ).
+
    
 📄 [See all publications](publications.qmd)
