@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Sergio J. Rey"
+  site-url: https://sergerey.org
   navbar:
     left:
       - href: index.qmd

@@ -9,6 +9,6 @@ platforms = ["osx-arm64", "osx-64", "linux-64", "win-64"]
 quarto = ">=1.5"
 
 [tasks]
-render = "quarto render"
-preview = "quarto preview"
-publish = "quarto publish gh-pages"
+render = { cmd = "quarto render", description = "Render the site into docs/" }
+preview = { cmd = "quarto preview", description = "Serve a live-reloading local preview" }
+publish = { cmd = "quarto publish gh-pages", description = "Render and push the site to the gh-pages branch (GitHub Pages source)" }

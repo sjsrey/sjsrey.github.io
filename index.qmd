@@ -3,6 +3,8 @@ title: "Sergio J. Rey"
 subtitle: "Professor of Geography | Spatial Data Scientist"
 author: ""
 date: ""
+filters:
+  - filters/cv-latest.lua
 ---
 
 <img src="https://github.com/sjsrey.png" width="150px" style="border-radius: 50%;" />
@@ -19,19 +21,15 @@ My research interests are in **spatial data science**, with a focus on **spatial
 
 
 
-##  Latest Books
+## Latest Articles
+::: {.cv-latest section="Refereed Journal Articles and Book Chapters" n=3}
+:::
+
+## Latest Books
 - 2023 Rey, S.J., D. Arribas-Bel, and L.J. Wolf, Geographical Data
-   Science with Python. CRC Press, Boca Raton. 
+   Science with Python. CRC Press, Boca Raton.
 - 2022 Rey, S.J. and R.S. Franklin (eds.) Handbook of Spatial Analysis for the Social
    Sciences. Edward Elgar, Cheltenham.
-
-## Latest Articles
-1. 2026 Rey, S.J., M. Fleischmann, L. Winkler, "GeoPlanar: Planar enforcement and coverage topology repairing for Python", *Environment and Planning B: Urban Analytics and City Science*,  
-   doi: [10.1177/23998083261470518](https://doi.org/10.1177/23998083261470518).
-1. 2026 Rey, S. J. "Mind the gap and the map: Measuring distributional and spatial income polarization", *Spatial Economic Analysis*,  
-   doi: [10.1080/17421772.2025.2606783](https://doi.org/10.1080/17421772.2025.2606783).
-1. 2026 Trubenstein, P., S. Pahlen, R. Corley, S. Rey, S.J. Wadsworth, C.A. Reynolds "Cognitive functioning in context: leisure activity engagement, social capital, and urbanicity-rurality interplay", *PLOS One*,  
-   doi: [10.1371/journal.pone.0339496](https://doi.org/10.1371/journal.pone.0339496  ).
 
    
 📄 [See all publications](publications.qmd)
