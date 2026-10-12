@@ -101,6 +101,12 @@ Geo-Information.
 1. 2002 Anselin, L. and S.J. Rey (eds.), New Tools for Spatial Data Analysis: Proceedings of a Workshop. Center for Spatially Integrated Social Science, University of California, Santa Barbara (CD-ROM).
 
 #### Refereed Journal Articles and Book Chapters
+1. 2026 Rey, S.J. "Simultaneous spatial systems with incommensurate partitions", *Letters in Spatial Resource Sciences*,  
+  doi: [10.1007/s12076-026-00447-0](https://doi.org/10.1007/s12076-026-00447-0).
+1. 2026 Deng, J., S. Ma, S.J. Rey, G. Hu, "Linking COPD Prevalence with Income Distribution: A Spatial Heterogeneous Compositional Regression via Geographically Weighted Penalized Approach", *Annals of the American Association of Geographers*,  
+   doi: [10.1080/24694452.2026.2722318](https://doi.org/10.1080/24694452.2026.2722318).
+1. 2026 Cortes, R.X., E. Knaap, S.J. Rey, "segregation: Segregation analysis, inference, and decomposition in Python", *Journal of Open Source Software*,  
+  doi: [10.21105/joss.11126](https://doi.org/10.21105/joss.11126).
 1. 2026 Rey, S.J., M. Fleischmann, L. Winkler, "GeoPlanar: Planar enforcement and coverage topology repairing for Python", *Environment and Planning B: Urban Analytics and City Science*,  
    doi: [10.1177/23998083261470518](https://doi.org/10.1177/23998083261470518).
 1. 2026 Rey, S.J. "Mind the gap and the map: Measuring distributional and spatial income polarization", *Spatial Economic Analysis*,  
@@ -169,7 +175,8 @@ Geo-Information.
    Ahmed Mahmood, Sergio Rey, and Amr Magdy. “Pyneapple-R: Scalable and
    Expressive Spatial Regionalization.” In 2024 IEEE 40th International
    Conference on Data Engineering (ICDE), 5497–5500. Utrecht, Netherlands:
-   IEEE. https://doi.org/10.1109/ICDE60146.2024.00437.
+   IEEE.  
+   doi: [10.1109/ICDE60146.2024.00437](https://doi.org/10.1109/ICDE60146.2024.00437).
 19. 2023 Rey, S.J. "Intersectional urban dynamics: A joint Markov chains
    approach." *Letters in Spatial and Resource Sciences*.  
    doi: [10.1007/s12076-023-00356-6](https://doi.org/10.1007/s12076-023-00356-6).
