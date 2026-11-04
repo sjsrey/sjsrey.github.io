@@ -101,6 +101,8 @@ Geo-Information.
 1. 2002 Anselin, L. and S.J. Rey (eds.), New Tools for Spatial Data Analysis: Proceedings of a Workshop. Center for Spatially Integrated Social Science, University of California, Santa Barbara (CD-ROM).
 
 #### Refereed Journal Articles and Book Chapters
+1. 2026 Ursavaş, U., Y. Chen, S.J. Rey, "Spatial inequality and income dynamics across Turkish provinces", *The Annals of Regional Science*, 75(3), 105.  
+   doi: [10.1007/s00168-026-01538-y](https://doi.org/10.1007/s00168-026-01538-y).
 1. 2026 Rey, S.J. "Simultaneous spatial systems with incommensurate partitions", *Letters in Spatial Resource Sciences*,  
   doi: [10.1007/s12076-026-00447-0](https://doi.org/10.1007/s12076-026-00447-0).
 1. 2026 Deng, J., S. Ma, S.J. Rey, G. Hu, "Linking COPD Prevalence with Income Distribution: A Spatial Heterogeneous Compositional Regression via Geographically Weighted Penalized Approach", *Annals of the American Association of Geographers*,  
