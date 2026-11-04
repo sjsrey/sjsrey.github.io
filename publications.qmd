@@ -14,6 +14,8 @@ title: "Publications"
 1. 2002 Anselin, L. and S.J. Rey (eds.), New Tools for Spatial Data Analysis: Proceedings of a Workshop. Center for Spatially Integrated Social Science, University of California, Santa Barbara (CD-ROM).
 
 ## Refereed Journal Articles and Book Chapters
+1. 2026 Rey, S.J. "On the distribution of spatial polarization indices", *Geographical Analysis*, 59(1), e70064.  
+   doi: [10.1111/gean.70064](https://doi.org/10.1111/gean.70064).
 1. 2026 Ursavaş, U., Y. Chen, S.J. Rey, "Spatial inequality and income dynamics across Turkish provinces", *The Annals of Regional Science*, 75(3), 105.  
    doi: [10.1007/s00168-026-01538-y](https://doi.org/10.1007/s00168-026-01538-y).
 1. 2026 Rey, S.J. "Simultaneous spatial systems with incommensurate partitions", *Letters in Spatial Resource Sciences*,  
